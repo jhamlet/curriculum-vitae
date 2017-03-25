@@ -43,7 +43,14 @@ creating thoughtful, well-reasoned solutions.
 Experience
 ----------
 
-### Senior UI Enginer, TVUI Discovery Experience *2010 to Current*
+### Principal UI Engineer, Web *Aug 2016 to Current*
+
+#### [Airtime Media, Palo Alto, CA](http://airtime.com)
+
+Taking on the challenge of bringing the Airtime social experience to web and
+desktop.
+
+### Senior UI Enginer, TVUI Discovery Experience *May 2010 to Feb 2016*
 
 #### [Netlfix, Los Gatos, CA](http://netflix.com)
 
