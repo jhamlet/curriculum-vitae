@@ -4,7 +4,7 @@
 **Contact:**
 [jerry@hamletzone.com](mailto:jerry@hamletzone.com) 
 [+1.510.432.4317](tel:+15104324317) 
-[linkedin](http://www.linkdedin.com/in/jerryhamlet)
+[linkedin](http://www.linkedin.com/in/jerryhamlet)
 
 Summary
 -------
