@@ -9,21 +9,20 @@
 Summary
 -------
 
-**19 years experience with the evolving web**. Consistently developing
-compelling, optimized, and dynamic graphical, user-facing applications
-delivered in the browser, mobile devices, TVs, set-top boxes, and game consoles.
+**20 years experience with the evolving web**; developing immersive, dynamic,
+and optimized user interfaces in browsers, mobile devices, TVs, set-top boxes,
+game consoles, and more.
 
 A **seasoned, functional, event-driven, object-oriented programmer** with
-expertise in JavaScript and HTML interfaces, web applications, database
-integration, command-line, and GUI software.
+expertise in JavaScript, HTML interfaces, web applications, database
+integration, and the command-line.
 
-**A 22 year history in design, branding, and marketing**. Covering
-illustration, layout, copy-editing, print/web-production, packaging,
-advertisements, and more...
+**With a background in design, branding, and marketing** as an illustrator,
+copy-editor, print/web-producer, package and advertisement designer,
+**creativity fuels the process**.
 
-**Passionate and dedicated to solving complex problems**. Enjoys the challenge
-of bringing all of that knowledge, experience, and craftsmanship together in
-creating thoughtful, well-reasoned solutions.
+Enjoys the challenge of bringing all of that knowledge, experience, and
+craftsmanship together in **creating compelling, well-reasoned solutions**.
 
 
 ### Skills
@@ -61,22 +60,20 @@ boxes, and game consoles, all over the world.
   * **Key architect and lead developer** for the TVUI **Search**
     user experience.
 
-      - Took our new **Falcor document model, and UI
-        components, to _new limits_**, and truly embraced
-        the **Functional Reactive paradigm**, to represent
+      - Took the **Falcor document model, and UI components, to _new limits_**,
+        and truly embraced the **Functional Reactive paradigm**, to represent
         the video results as a grid.
 
   * **Created the nodejs build tools that build every TVUI
     experience** across the hundreds of devices, features,
     configurations, resolutions, languages, locales, and A/B tests.
 
-      - **Reduced developer re-build time to almost
-        _zero_** from an average of 40 seconds.
+      - **Reduced developer re-build time to almost _zero_** from an average of
+        40 seconds.
 
-      - **For over three years it has met the challenge**
-        of the rapidly evolving needs of TVUI's growing
-        device coverage, developer needs, and the product
-        goals of Netflix.
+      - **For over three years it has met the challenge** of the rapidly
+        evolving needs of TVUI's growing device coverage, developer needs, and
+        the product goals of Netflix.
 
   * **Evangelized best practices** in i18n development throughout
     the company to ensure Netflix could meet the challenge of
