@@ -3,9 +3,9 @@ import moment from 'moment';
 import { matterDelimiters as delimiters } from 'config';
 import { traverseDirectory } from 'util/fs';
 import {
-  always, anyPass, converge, dissoc, filter, has, ifElse, isNil, invoker,
-  merge, mergeAll, nthArg, objOf, pick, pipe, prop, split, trim, unapply,
-  whereEq
+  always, anyPass, converge, dissoc, filter, has, head, ifElse, isNil,
+  identical, invoker, merge, mergeAll, nthArg, objOf, pick, pipe, prop, sort,
+  split, trim, unapply, whereEq
 } from 'ramda';
 import { isString } from 'util/predicates';
 
@@ -106,13 +106,23 @@ const mapFileNode = converge(invoker(1, 'map'), [
   pipe(arg0, getContent)
 ]);
 
+const sortByFromAndTo = sort(({ from: fa }, { from: fb }) =>
+  moment(fa).isBefore(fb) ? 1 : moment(fa).isAfter(fb) ? -1 : 0
+);
+
+const onlyOrAll = ifElse(
+  pipe(prop('length'), identical(1)),
+  head,
+  arg0
+);
+
 const collateData = converge(mergeEvery, [
-  pipe(filterSummary, ofSummary),
-  pipe(filterObjective, ofObjective),
-  pipe(filterContact, ofContact),
-  pipe(filterExperience, ofExperience),
-  pipe(filterSkills, ofSkills),
-  pipe(filterTools, ofTools)
+  pipe(filterSummary, onlyOrAll, ofSummary),
+  pipe(filterObjective, onlyOrAll, ofObjective),
+  pipe(filterContact, onlyOrAll, ofContact),
+  pipe(filterExperience, sortByFromAndTo, onlyOrAll, ofExperience),
+  pipe(filterSkills, onlyOrAll, ofSkills),
+  pipe(filterTools, onlyOrAll, ofTools)
 ]);
 
 export default traverseDirectory(DATA_DIR).
