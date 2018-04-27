@@ -44,8 +44,13 @@ Experience
 
 #### [LogicHub, Mountain View, CA](https://logichub.com)
 
-Developing the core UI application to enable Security Engineers to automate, and
-replicate, their expertise.
+Developing the UI of the LogicHub SPA used by Security Experts to
+automate, and replicate, their expertise using graph-based tools; along with
+features commonly found in desktop applications such as drag and drop, keyboard
+shortcuts, undo/redo, etc...
+
+Mentoring the team in best practices, application architecture, functional
+programming, and reactive extensions (RxJs).
 
 ### Principal UI Engineer, Web *Aug 2016 to June 2017*
 
