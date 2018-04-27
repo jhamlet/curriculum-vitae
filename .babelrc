@@ -1,8 +1,16 @@
-{
-  "presets": [
-    "es2015"
-  ],
-  "ignore": [
-    "node_modules"
-  ]
+  {
+    "presets": [
+      "modern-browsers",
+      "react"
+    ],
+    "plugins": [
+      "transform-runtime"
+    ],
+    "only": [
+      "src",
+      "test"
+    ],
+    "ignore": [
+      "node_modules"
+    ]
 }
