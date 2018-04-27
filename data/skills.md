@@ -1,5 +1,6 @@
 ~~~
-title: Skills & Disciplines
+category: skills
+title:    Skills & Disciplines
 ~~~
 
 - Functional Programming

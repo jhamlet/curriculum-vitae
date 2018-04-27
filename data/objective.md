@@ -1,4 +1,5 @@
 ~~~
+category: objective
 ~~~
 
 I have a wide set of capabilities, from design to software engineering. At this

@@ -1,4 +1,5 @@
 ~~~
+category:   experience
 from:       April 2004
 to:         September 2007
 title:      Designer & Lead Programmer

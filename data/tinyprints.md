@@ -1,4 +1,5 @@
 ~~~
+category:   experience
 from:       August 2009
 to:         November 2009
 title:      Senior Web Monkey

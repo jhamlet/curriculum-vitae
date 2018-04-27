@@ -1,4 +1,5 @@
 ~~~
+category: contact
 title:    Contact
 mobile:   +1-510-432-4317
 email:    jerry@hamletzone.com

@@ -1,10 +1,11 @@
 ~~~
-from:    June 2000
-to:      September 2001
-title:   Lead Web Developer
-company: Halleck, Inc.
-city:    Palo Alto
-state:   CA
+category: experience
+from:     June 2000
+to:       September 2001
+title:    Lead Web Developer
+company:  Halleck, Inc.
+city:     Palo Alto
+state:    CA
 ~~~
 
 Created web sites, user-interfaces, information architectures, web and

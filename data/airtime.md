@@ -1,10 +1,13 @@
 ~~~
+category:   experience
 from:       August 2016
+to:         June 2017
 title:      Principal UI Engineer
 company:    Airtime
 companyUrl: http://airtime.com/
 city:       Palo Alto
 state:      CA
+tags:       web, application, lead, mentor, rxjs, ramda, react, graphql, video, chat
 ~~~
 
 Taking on the challenge of bringing the Airtime social experience to web and

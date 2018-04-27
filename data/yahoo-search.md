@@ -1,4 +1,5 @@
 ~~~
+category:   experience
 from:       October 2007
 to:         July 2009
 title:      Senior Web Developer

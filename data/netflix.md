@@ -1,4 +1,5 @@
 ~~~
+category:   experience
 from:       May 2010
 to:         February 2016
 title:      Senior UI Enginer

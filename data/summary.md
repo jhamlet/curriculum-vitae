@@ -1,4 +1,5 @@
 ~~~
+category: summary
 name:  Jerry Hamlet
 title: Señor UI Engineer
 ~~~

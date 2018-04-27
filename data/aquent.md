@@ -1,4 +1,5 @@
 ~~~
+category: experience
 from:     August 1997
 to:       May 2000
 title:    Graphic & Web Production Specialist
