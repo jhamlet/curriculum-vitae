@@ -44,8 +44,8 @@ Experience
 
 #### [LogicHub, Mountain View, CA](https://logichub.com)
 
-Building UI components and features to allow Security Experts automate threat
-detection.
+Developing the core UI application to enable Security Engineers to automate, and
+replicate, their expertise.
 
 ### Principal UI Engineer, Web *Aug 2016 to June 2017*
 
