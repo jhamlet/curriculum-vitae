@@ -8,7 +8,7 @@ body {
 #main {
   display: flex;
   width: 8.5in;
-  padding: 0.125in 0.125in;
+  padding: 0.125in 0.75in 0.125in 0.125in;
 }
 #main #sidebar {
   margin-top: 32pt;
@@ -17,7 +17,7 @@ body {
   background-color: #0072bc;
 }
 #main #content {
-  margin: 19pt 0 0 0.125in;
+  margin: 19pt 0 0 0.25in;
 }
 #main h1 {
   position: absolute;
@@ -90,10 +90,40 @@ body {
 #main #tools + blockquote {
   top: 7.25in;
 }
+#main h2 {
+  margin-top: 1em;
+}
 #main h3 {
   position: relative;
+  margin: 1em 0 0 0;
+}
+#main h4 {
+  margin: 0;
+}
+#main h4 + p {
+  margin-top: 4pt;
+  margin-bottom: 0;
 }
 #main h3 em {
-  position: absolute;
-  right: 0;
+  font-weight: normal;
+}
+#main h3 em:before {
+  content: '\2014 ';
+  padding-right: 2pt;
+}
+#main ul {
+  margin-top: 0.5em;
+  padding-left: 2em;
+  margin-right: 4em;
+}
+#main ul li {
+  text-align: justify;
+}
+#main ul li p {
+  margin: 0.25em 0;
+}
+@media print {
+  #main #senior-web-developer-international-search-2007-to-2009- {
+    page-break-before: always;
+  }
 }
