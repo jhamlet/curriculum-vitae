@@ -4,7 +4,8 @@
 **Contact:**
 [jerry@hamletzone.com](mailto:jerry@hamletzone.com) 
 [+1.510.432.4317](tel:+15104324317) 
-[linkedin](http://www.linkedin.com/in/jerryhamlet)
+[linkedin](https://www.linkedin.com/in/jerryhamlet)
+[github](https://github.com/jhamlet)
 
 Summary
 -------
@@ -27,22 +28,26 @@ craftsmanship together in **creating compelling, well-reasoned solutions**.
 
 ### Skills
 
->   JavaScript, HTML5, CSS3, SVG, Web fonts, Video, Functional
->   Programming, Functional Reactive Programming, Event-Driven
->   Programming, Object Oriented Programming, User Interface,
->   Application Architecture, Web Development, SQL, NoSQL
+> JavaScript, HTML, CSS, SVG, Functional Programming, Functional Reactive
+> Programming, Event-Driven Programming, Object Oriented Programming, User
+> Experience, Application Architecture
 
 ### Tools
 
->   vim, git, bash, node, npm, gulp, webpack, karma, express,
->   streams, observables, browserify, JSON, React, RxJs, Ramda,
->   lodash, falcor, JSONGraph, ruby, groovy, Photoshop,
->   Illustrator, InDesign, Acrobat, PDF, OmniGraffle
+> Vim, Git, Bash, Node.js, npm, Webpack, Express.js, React, RxJs, Ramda,
+> GraphQL, Redux, Photoshop, Illustrator
 
 Experience
 ----------
 
-### Principal UI Engineer, Web *Aug 2016 to Current*
+### UI Architect *Aug 2017 to Current*
+
+#### [LogicHub, Mountain View, CA](https://logichub.com)
+
+Building UI components and features to allow Security Experts automate threat
+detection.
+
+### Principal UI Engineer, Web *Aug 2016 to June 2017*
 
 #### [Airtime Media, Palo Alto, CA](http://airtime.com)
 
