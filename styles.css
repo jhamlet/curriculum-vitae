@@ -64,12 +64,21 @@ body {
   line-height: 14pt;
   margin-top: 8pt;
 }
+#main #content h4 a:link {
+  color: #0072bc;
+}
+#main #content h4 a:visited {
+  color: #0072bc;
+}
 #main h1 + p a:link {
   color: #fff;
   text-decoration: none;
 }
 #main h1 + p a:hover {
   text-decoration: underline;
+}
+#main h1 + p a:visited {
+  color: #fff;
 }
 #main #skills,
 #main #skills + blockquote,
@@ -125,5 +134,8 @@ body {
 @media print {
   #main #senior-web-developer-international-search-2007-to-2009- {
     page-break-before: always;
+  }
+  #main #content h4 a:link {
+    text-decoration: none;
   }
 }
