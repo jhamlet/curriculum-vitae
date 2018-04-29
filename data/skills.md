@@ -1,17 +1,17 @@
 ~~~
 category: skills
-title:    Skills & Disciplines
+title:    Skills & Expertise
+items:
+  - label: Functional Programming
+  - label: Reactive Programming
+  - label: Event-Driven Programming
+  - label: Object Oriented Programming
+  - label: Application Architecture
+  - label: User Experience
+  - label: Test Driven Development
+  - label: Build Tooling
+  - label: Performance Testing
+  - label: Design
+  - label: Illustration
 ~~~
-
-- Functional Programming
-- Reactive Programming
-- Event-Driven Programming
-- Object Oriented Programming
-- Application Architecture
-- User Experience
-- Test Driven Development
-- Build Tooling
-- Performance Testing
-- Design
-- Illustration
 
