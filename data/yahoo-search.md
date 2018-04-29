@@ -9,7 +9,6 @@ companyUrl: http://search.yahoo.com
 city:       Santa Clara
 state:      CA
 ~~~
-
 Working with user experience designers, product managers, and back-end
 developers enhancing and maintaining the Yahoo! Search experience.
 
@@ -22,3 +21,4 @@ developers enhancing and maintaining the Yahoo! Search experience.
   deployment of the search experience across **40 international** locations and
   languages.
 - Improved user tracking with streamlined JavaScript for Combo Search platform.
+

@@ -9,7 +9,6 @@ city:       Palo Alto
 state:      CA
 tags:       web, application, lead, mentor, rxjs, ramda, react, graphql, video, chat
 ~~~
-
 Taking on the challenge of bringing the Airtime social experience to web and
 desktop.
 

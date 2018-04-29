@@ -1,6 +1,6 @@
 import {
   always, concat, converge, curryN, flip, identity, ifElse, join, length, map,
-  nthArg, pipe, split, test
+  nthArg, pipe, split, test, trim
 } from 'ramda';
 
 import {
@@ -13,7 +13,7 @@ const arg1 = nthArg(1);
 export const emphasis = bookend('*');
 export const strong   = bookend('**');
 export const code     = bookend('`');
-export const block    = postfix('\n\n');
+export const block    = pipe(trim, postfix('\n\n'));
 
 export const headerLine = converge(repeat, [ arg0, pipe(arg1, length) ]);
 export const hashHeader = converge(concat, [
