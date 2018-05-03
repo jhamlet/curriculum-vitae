@@ -4,7 +4,7 @@ from:       May 2010
 to:         February 2016
 title:      Senior UI Enginer
 subtitle:   TVUI Discovery Experience
-company:    Netlfix
+company:    Netflix
 companyUrl: http://netflix.com
 city:       Los Gatos
 state:      CA

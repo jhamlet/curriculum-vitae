@@ -3,7 +3,7 @@ import wordwrap from 'word-wrap';
 import {
   converge, flatten, join, merge, pluck, pipe, prop, unapply
 } from 'ramda';
-import { a, bq, em, h1, h2, h3, h4, p } from 'util/markdown';
+import { a, b, bq, em, h1, h2, h3, p } from 'util/markdown';
 
 export const renderSummary = props => {
   const { summary: { name, title, content } } = props;
@@ -59,13 +59,15 @@ export const renderExperience = ({ experience }) => {
   const timeRange =
     moment(from).format('MMM YYYY') +
     ' to ' +
-    moment(to).format('MMM YYYY');
+    (to
+    ? moment(to).format('MMM YYYY')
+    : 'Current');
 
   const companyPlace = `${company}, ${city}, ${state}`;
 
   return [
     h3(`${title} ${em(timeRange)}`),
-    h4(companyUrl ? a(companyPlace, companyUrl) : companyPlace),
+    p(b(companyUrl ? a(companyPlace, companyUrl) : companyPlace)),
     p(content)
   ];
 };
