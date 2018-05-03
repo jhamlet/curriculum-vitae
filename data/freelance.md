@@ -1,7 +1,7 @@
 ~~~
 category: experience
-from:     October 2001
-to:       April 2004
+from:     2001-10-01
+to:       2004-04-30
 title:    Freelance Designer & Web Developer
 company:  Self Employed
 city:     Bay Area

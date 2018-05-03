@@ -1,7 +1,7 @@
 ~~~
 category:   experience
-from:       August 2009
-to:         November 2009
+from:       2009-08-01
+to:         2009-11-30
 title:      Senior Web Monkey
 company:    Tiny Prints
 companyUrl: http://tinyprints.com

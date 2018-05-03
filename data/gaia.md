@@ -1,7 +1,7 @@
 ~~~
 category:   experience
-from:       December 2009
-to:         April 2010
+from:       2009-12-01
+to:         2010-04-30
 title:      Senior Web Monkey
 company:    Gaia Interactive
 companyUrl: http://gaiaonline.com

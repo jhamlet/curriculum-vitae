@@ -1,6 +1,6 @@
 ~~~
 category:   experience
-from:       August 2017
+from:       2017-08-01
 title:      UI Architect
 company:    LogicHub
 companyUrl: http://logichub.com

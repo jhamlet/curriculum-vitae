@@ -1,7 +1,7 @@
 ~~~
 category:   experience
-from:       October 2007
-to:         July 2009
+from:       2007-10-01
+to:         2009-07-31
 title:      Senior Web Developer
 subtitle:   International Search
 company:    Yahoo!

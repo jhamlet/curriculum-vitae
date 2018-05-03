@@ -4,7 +4,7 @@
   "description": "Jerry Hamlet's Resumé",
   "private": true,
   "scripts": {
-    "dev": "./bin/build run",
+    "build": "DEBUG=app* ./task/build.sh",
     "test": "NODE_ENV=test ./task/test.sh"
   },
   "repository": {

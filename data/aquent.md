@@ -1,7 +1,7 @@
 ~~~
 category: experience
-from:     August 1997
-to:       May 2000
+from:     1997-08-01
+to:       2000-05-31
 title:    Graphic & Web Production Specialist
 company:  Aquent
 city:     Santa Clara

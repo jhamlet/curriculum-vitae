@@ -5,7 +5,6 @@ DIR_NAME=$( dirname "$0" )
 source "$DIR_NAME/common.sh"
 
 node -r babel-register \
-  "$NODE_BIN/webpack" \
-  --config "$PROJECT_DIR/webpack.config.js" \
-  --progress;
+  "$PROJECT_DIR/src/cli.js" \
+  "build" "markdown" "$PROJECT_DIR/README.md";
 

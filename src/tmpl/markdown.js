@@ -1,9 +1,21 @@
 import moment from 'moment';
 import wordwrap from 'word-wrap';
 import {
-  converge, flatten, join, merge, pluck, pipe, prop, unapply
+  complement, converge, curryN, filter, flatten, flip, join, map, merge, pluck,
+  pipe, prop, split, unapply// , tap
 } from 'ramda';
-import { a, b, bq, em, h1, h2, h3, p } from 'util/markdown';
+import { a, bq, em, h1, h2, h3, h4, p } from 'util/markdown';
+// import { app as debug } from 'util/debug';
+
+const parseBaseTenInt = curryN(2, flip(parseInt))(10);
+
+const pluckNumbers = pipe(
+  split (''),
+  map(parseBaseTenInt),
+  filter(complement(isNaN)),
+  // tap(n => debug.log(n)),
+  join('')
+);
 
 export const renderSummary = props => {
   const { summary: { name, title, content } } = props;
@@ -33,8 +45,9 @@ export const renderTools = converge(renderBlockquotedItem, [
 export const renderContactMethod = ({ label, value, type }) => {
   switch (type) {
     case 'phone':
+      return a(`${label}: ${value}`, `tel:${encodeURIComponent(pluckNumbers(value))}`);
     case 'email':
-      return value;
+      return a(`${label}: ${value}`, `mailto:${encodeURIComponent(value)}`);
     case 'link':
       return a(label, value);
     default:
@@ -47,7 +60,11 @@ export const renderContact = props => {
 
   return [
     h2('Contact'),
-    wordwrap(join(' | ', items.map(renderContactMethod)), { width: 72 })
+    p(wordwrap(join(
+      ' |\n',
+      items.map(renderContactMethod)),
+      { indent: '', width: 72 }
+    ))
   ];
 };
 
@@ -67,7 +84,7 @@ export const renderExperience = ({ experience }) => {
 
   return [
     h3(`${title} ${em(timeRange)}`),
-    p(b(companyUrl ? a(companyPlace, companyUrl) : companyPlace)),
+    h4(companyUrl ? a(companyPlace, companyUrl) : companyPlace),
     p(content)
   ];
 };
@@ -75,8 +92,11 @@ export const renderExperience = ({ experience }) => {
 export const renderExperiences = props => {
   const { options, experience } = props;
 
-  return experience.
-    map(experience => renderExperience({ options, experience }));
+  return [h2('Experience')].
+    concat(
+      experience.
+        map(experience => renderExperience({ options, experience }))
+    );
 };
 
 export const render = converge(

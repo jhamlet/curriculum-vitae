@@ -1,7 +1,7 @@
 ~~~
 category:   experience
-from:       May 2010
-to:         February 2016
+from:       2010-05-05
+to:         2016-02-29
 title:      Senior UI Enginer
 subtitle:   TVUI Discovery Experience
 company:    Netflix

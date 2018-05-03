@@ -1,7 +1,7 @@
 ~~~
 category:   experience
-from:       August 2016
-to:         June 2017
+from:       2016-08-01
+to:         2017-06-03
 title:      Principal UI Engineer
 company:    Airtime
 companyUrl: http://airtime.com/

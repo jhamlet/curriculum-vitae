@@ -1,7 +1,7 @@
 ~~~
 category:   experience
-from:       April 2004
-to:         September 2007
+from:       2004-04-01
+to:         2007-09-30
 title:      Designer & Lead Programmer
 company:    BIG Design, Inc.
 companyUrl: http://bigdesign.com

@@ -1,7 +1,7 @@
 ~~~
 category: experience
-from:     June 2000
-to:       September 2001
+from:     2000-06-01
+to:       2001-09-30
 title:    Lead Web Developer
 company:  Halleck, Inc.
 city:     Palo Alto
