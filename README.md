@@ -141,9 +141,9 @@ projects in web design, animation, and programming.
   - Automated web site creation and developed a **Content Management System
     (CMS)** for client’s sites.
 
-### Freelance Designer & Web Developer *Sep 2001 to Apr 2004*
+### Designer & Web Developer *Sep 2001 to Apr 2004*
 
-#### Self Employed, Bay Area, CA
+#### Freelance, Bay Area, CA
 
 Worked with companies and individuals, to develop and manage their web sites,
 intranets and promotional materials. Provided graphic design, Flash animation,

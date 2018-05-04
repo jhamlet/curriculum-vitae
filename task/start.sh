@@ -7,16 +7,14 @@ source "$DIR_NAME/common.sh"
 if [ "$NODE_ENV" = "development" ]
 then
   nodemon \
-    -w "$PROJECT_DIR/webpack.site.config.js" \
-    -w "$SITE_DIR" \
-    -w "$ENTRY_DIR" \
-    -w "$SRC_DIR/server" \
-    -w "$SRC_DIR/site" \
-    -w "$SRC_DIR/config" \
-    -w "$ENTRY_DIR" \
-    --ext "js,gql,md" \
+    -w "$DATA_DIR" \
+    -w "$SRC_DIR" \
+    --ext "js,md" \
     -- \
-    -r babel-register "$PROJECT_DIR/src/server/dev.js"
-else
-  nodemon "$DIST_DIR/server.js"
+    -r babel-register \
+    "$PROJECT_DIR/src/cli.js" \
+    "build" "markdown" "$PROJECT_DIR/README.md" &
 fi
+
+wait
+

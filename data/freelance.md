@@ -2,8 +2,8 @@
 category: experience
 from:     2001-10-01
 to:       2004-04-30
-title:    Freelance Designer & Web Developer
-company:  Self Employed
+title:    Designer & Web Developer
+company:  Freelance
 city:     Bay Area
 state:    CA
 ~~~
