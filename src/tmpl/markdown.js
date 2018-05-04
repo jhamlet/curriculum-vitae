@@ -83,7 +83,7 @@ export const renderExperience = ({ experience }) => {
   const companyPlace = `${company}, ${city}, ${state}`;
 
   return [
-    h3(`${title} — ${em(timeRange)}`),
+    h3(`${title} ${em('— ' + timeRange)}`),
     h4(companyUrl ? a(companyPlace, companyUrl) : companyPlace),
     p(content)
   ];

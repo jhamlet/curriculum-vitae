@@ -14,4 +14,11 @@ tags:
   - application
   - security
 ~~~
+Developing the UI of the LogicHub SPA used by Security Experts to
+automate, and replicate, their expertise using graph-based tools; along with
+features commonly found in desktop applications such as drag and drop, keyboard
+shortcuts, undo/redo, etc...
+
+Mentoring the team in best practices, application architecture, functional
+programming, and reactive extensions (RxJs).
 
