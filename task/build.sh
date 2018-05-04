@@ -8,6 +8,8 @@ if [ "$NODE_ENV" = "production" ]
 then
   node -r babel-register \
     "$PROJECT_DIR/src/cli.js" \
-    "build" "markdown" "$PROJECT_DIR/README.md"
+    "build" "markdown" "$DIST_DIR/README.md"
+
+  cp "$DIST_DIR/README.md" "$PROJECT_DIR/README.md"
 fi
 

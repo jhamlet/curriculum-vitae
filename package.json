@@ -4,7 +4,8 @@
   "description": "Jerry Hamlet's Resumé",
   "private": true,
   "scripts": {
-    "build": "NODE_ENV=production ./task/build.sh",
+    "clean": "./task/clean.sh",
+    "build": "npm run clean && NODE_ENV=production ./task/build.sh",
     "dev": "NODE_ENV=development ./task/start.sh",
     "test": "NODE_ENV=test ./task/test.sh"
   },

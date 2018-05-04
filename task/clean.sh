@@ -5,4 +5,5 @@ DIR_NAME=$( dirname "$0" )
 source "$DIR_NAME/common.sh"
 
 rm -rfv "$DIST_DIR"
+mkdir "docs"
 
