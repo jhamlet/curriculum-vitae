@@ -61,7 +61,7 @@ desktop.
 
 ### Senior UI Enginer, TVUI Discovery Experience *May 2010 to Feb 2016*
 
-#### [Netlfix, Los Gatos, CA](http://netflix.com)
+#### [Netflix, Los Gatos, CA](http://netflix.com)
 
 Utilizing advanced, optimized, JavaScript, and bleeding-edge technologies to
 bring the **Netflix experience to over 30 million** users on TVs, set-top
