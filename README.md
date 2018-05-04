@@ -39,20 +39,20 @@ Tools & Frameworks
 Experience
 ----------
 
-### UI Architect *Jul 2017 to Current*
+### UI Architect — *Jul 2017 to Current*
 
 #### [LogicHub, Mountain View, CA](http://logichub.com)
 
 
 
-### Principal UI Engineer *Jul 2016 to Jun 2017*
+### Principal UI Engineer — *Jul 2016 to Jun 2017*
 
 #### [Airtime, Palo Alto, CA](http://airtime.com/)
 
 Taking on the challenge of bringing the Airtime social experience to web and
 desktop.
 
-### Senior UI Enginer *May 2010 to Feb 2016*
+### Senior UI Enginer — *May 2010 to Feb 2016*
 
 #### [Netflix, Los Gatos, CA](http://netflix.com)
 
@@ -80,7 +80,7 @@ and game consoles, all over the world.
 - **Evangelized best practices** in i18n development throughout the company to
   ensure Netflix could meet the challenge of continued growth in new regions.
 
-### Senior Web Monkey *Nov 2009 to Apr 2010*
+### Senior Web Monkey — *Nov 2009 to Apr 2010*
 
 #### [Gaia Interactive, San Jose, CA](http://gaiaonline.com)
 
@@ -88,14 +88,14 @@ Worked with the Growth Team to woo new members with engaging experiences; along
 with streamlining their legacy code with standards-compliant, cross-browser
 HTML, lean JavaScript, and CSS.
 
-### Senior Web Monkey *Jul 2009 to Nov 2009*
+### Senior Web Monkey — *Jul 2009 to Nov 2009*
 
 #### [Tiny Prints, Mountain View, CA](http://tinyprints.com)
 
 Evangelized JavaScript and Web UI Engineering best practices with their team, to
 optimize their growing, on-line, personalized greeting card experience.
 
-### Senior Web Developer *Sep 2007 to Jul 2009*
+### Senior Web Developer — *Sep 2007 to Jul 2009*
 
 #### [Yahoo!, Santa Clara, CA](http://search.yahoo.com)
 
@@ -115,7 +115,7 @@ developers enhancing and maintaining the Yahoo! Search experience.
 
 - Improved user tracking with streamlined JavaScript for Combo Search platform.
 
-### Designer & Lead Programmer *Mar 2004 to Sep 2007*
+### Designer & Lead Programmer — *Mar 2004 to Sep 2007*
 
 #### [BIG Design, Inc., Fremont, CA](http://bigdesign.com)
 
@@ -141,7 +141,7 @@ projects in web design, animation, and programming.
   - Automated web site creation and developed a **Content Management System
     (CMS)** for client’s sites.
 
-### Designer & Web Developer *Sep 2001 to Apr 2004*
+### Designer & Web Developer — *Sep 2001 to Apr 2004*
 
 #### Freelance, Bay Area, CA
 
@@ -149,7 +149,7 @@ Worked with companies and individuals, to develop and manage their web sites,
 intranets and promotional materials. Provided graphic design, Flash animation,
 programming and internet marketing services.
 
-### Lead Web Developer *May 2000 to Sep 2001*
+### Lead Web Developer — *May 2000 to Sep 2001*
 
 #### Halleck, Inc., Palo Alto, CA
 
@@ -166,7 +166,7 @@ intranet servers.
 - **Increased on-line revenue by 1000%** for St. Supéry Vineyards when the home
   page was recognized by Macromedia’s *Flash Site-of-the-Day*.
 
-### Graphic & Web Production Specialist *Jul 1997 to May 2000*
+### Graphic & Web Production Specialist — *Jul 1997 to May 2000*
 
 #### Aquent, Santa Clara, CA
 
