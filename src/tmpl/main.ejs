@@ -1,0 +1,9 @@
+<%
+const React = require('react');
+const ReactDom = require('react-dom/server');
+const { default: Component } = require('../component/resume.js');
+const props = htmlWebpackPlugin;
+%>
+
+<%= ReactDom.renderToStaticMarkup(React.createElement(Component, props)) %>
+

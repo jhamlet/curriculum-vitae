@@ -14,6 +14,14 @@ then
     -r babel-register \
     "$PROJECT_DIR/src/cli.js" \
     "build" "markdown" "$PROJECT_DIR/README.md" &
+
+  nodemon \
+    -w "$DATA_DIR" \
+    --ext "md" \
+    -- \
+    -r babel-register \
+    "$NODE_BIN/webpack-dev-server" \
+    --mode development
 fi
 
 wait

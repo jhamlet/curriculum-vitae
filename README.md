@@ -49,7 +49,7 @@ features commonly found in desktop applications such as drag and drop, keyboard
 shortcuts, undo/redo, etc...
 
 Mentoring the team in best practices, application architecture, functional
-programming, and reactive extensions (RxJs).
+programming, React and Redux patterns, and reactive extensions (RxJs).
 
 ### Principal UI Engineer *— Jul 2016 to Jun 2017*
 

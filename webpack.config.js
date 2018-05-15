@@ -3,7 +3,7 @@ import HtmlWebpackPlugin from 'html-webpack-plugin';
 
 export default {
   entry: {
-    main: ['./src/tmpl/main.js']
+    main: ['./src/entry/main.js']
   },
 
   devServer: {
@@ -15,6 +15,7 @@ export default {
     new HtmlWebpackPlugin({
       title:    'Jerry Hamlet | Curriculum Vitae',
       filename: 'index.html',
+      template: './src/tmpl/main.ejs',
       chunks:   [`main`]
     }),
     new HotModuleReplacementPlugin()
@@ -33,7 +34,6 @@ export default {
       },
       {
         test: /\.css$/,
-        // exclude: /node_modules/,
         loader: 'style-loader/useable!css-loader'
       },
       {
