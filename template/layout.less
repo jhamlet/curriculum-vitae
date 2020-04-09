@@ -96,8 +96,29 @@ html, body {
     top: 7.25in;
   }
 
+  a {
+    &:link {
+      color: @sideColor;
+      text-decoration: none;
+    }
+  }
+
+  h2 {
+    margin-bottom: -0.5em;
+    border-bottom: 0.5pt solid @sideColor;
+  }
+
   h3 {
     position: relative;
+    margin-top: 1.25em;
+    margin-bottom: 0;
+
+    strong {
+      &:before {
+        content: '— ';
+      }
+      font-size: 0.85em;
+    }
 
     em {
       position: absolute;
@@ -105,5 +126,10 @@ html, body {
     }
   }
 
+  h4 {
+    margin-top: 0.25em;
+    margin-bottom: -0.3em;
+    border-bottom: 1px dashed @sideColor;
+  }
 }
 

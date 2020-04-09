@@ -28,19 +28,26 @@ craftsmanship together in **creating compelling, well-reasoned solutions**.
 
 ### Skills
 
-> JavaScript, HTML, CSS, SVG, Functional Programming, Functional Reactive
-> Programming, Event-Driven Programming, Object Oriented Programming, User
-> Experience, Application Architecture
+> JavaScript, PHP/Hack, HTML5, CSS3, SVG, GraphQL, Functional Programming, Functional
+> Reactive Programming, Event-Driven Programming, Object Oriented Programming,
+> User Experience, Application Architecture
 
 ### Tools
 
-> Vim, Git, Bash, Node.js, npm, Webpack, Express.js, React, RxJs, Ramda,
-> GraphQL, Redux, Photoshop, Illustrator
+> Acrobat, Bash, Git, Electron, Illustrator, Node.js, Photoshop, Ramda,
+> Raspberry Pi, React, Redux, Relay, RxJs, Vim, Webpack
 
 Experience
 ----------
 
-### UI Architect *Aug 2017 to Current*
+### Principal UI Engineer **AR/VR Core Tech | AI Data Systems**  *Aug 2018 to Current*
+
+#### [Facebook, Menlo Park, CA](https://facebook.com)
+
+Designing and developing the internal web application "Gaia" for the data
+scientists and engineers within the Facbook AR/VR organization.
+
+### UI Architect *Aug 2017 to May 2018*
 
 #### [LogicHub, Mountain View, CA](https://logichub.com)
 
@@ -52,14 +59,14 @@ shortcuts, undo/redo, etc...
 Mentoring the team in best practices, application architecture, functional
 programming, and reactive extensions (RxJs).
 
-### Principal UI Engineer, Web *Aug 2016 to June 2017*
+### Principal UI Engineer *Aug 2016 to June 2017*
 
 #### [Airtime Media, Palo Alto, CA](http://airtime.com)
 
 Taking on the challenge of bringing the Airtime social experience to web and
 desktop.
 
-### Senior UI Enginer, TVUI Discovery Experience *May 2010 to Feb 2016*
+### Senior UI Enginer **TVUI Discovery Experience** *May 2010 to Feb 2016*
 
 #### [Netflix, Los Gatos, CA](http://netflix.com)
 
@@ -107,7 +114,7 @@ Evangelized JavaScript and Web UI Engineering best practices with their team,
 to optimize their growing, on-line, personalized greeting card experience.
 
 
-### Senior Web Developer, International Search *2007 to 2009*
+### Senior Web Developer **International Search** *2007 to 2009*
 
 #### [Yahoo!, Santa Clara, CA](http://search.yahoo.com)
 
