@@ -46,6 +46,9 @@ Experience
 
 Designing and developing the internal web application "Gaia" for the data
 scientists and engineers within the Facbook AR/VR organization.
+  * Devoloping common UI and engineering solutions to handle over 80% of the varied user's needs
+  * Using SVG and WebGL to render complex data and relationships
+  * Leading the overall direction for the internal project
 
 ### UI Architect *Aug 2017 to May 2018*
 
