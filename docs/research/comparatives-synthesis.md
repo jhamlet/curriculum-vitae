@@ -464,67 +464,74 @@ The research identified that most consultant sites do not display pricing. Commo
 
 ## Questions for User
 
-### Positioning Clarifications
+### Answered/Clarified
 
-1. **Identity Balance:** How to balance "Creative Solutions Architect" breadth with specific expertise areas? The most memorable positioning from research was narrow (accessibility, AI tools) not broad. What 1-2 areas should be primary focus?
+1. ~~**Identity Balance:**~~ → **"Creative Solutions Engineer"** — deliberate contrast between creative and engineer. Primary focus: Design systems + AI integration architecture.
 
-2. **AI Positioning Depth:** Is the goal to position as AI-native builder (like [Willison](https://simonwillison.net/), creating tools) or AI-enabled creative (using AI as tool)? These require different evidence.
+2. ~~**AI Positioning Depth:**~~ → **AI-enabled creative** (using AI as tool, not building AI tools). Key metaphor: "I am the training data" — 27+ years of expertise powers the AI. AI amplifies, doesn't replace.
 
-3. **Teaching Component:** Would creating educational content (courses, workshops, blog posts) strengthen positioning? Multiple research examples leveraged teaching for authority. Is this of interest?
+3. ~~**Teaching Component:**~~ → **Yes, interested.** Short-form content via OBS screen recordings. Blog content. Minimal on-camera presence. Topics: FP, FRP, composition, clarity over cleverness, AI workflows.
 
-4. **Design Credential Substantiation:** How to best demonstrate "design-informed" claim? Research examples had formal design background or design-focused projects. What evidence exists for Jerry's design expertise?
+4. ~~**Design Credential Substantiation:**~~ → **Reframe: Design is not a "background" — it's the operating system.** Design = pattern recognition, synthesis across domains, seeing solutions others don't. Demonstrated through the work itself, not credentials.
 
-5. **Personality Element:** What makes Jerry distinctive beyond technical skills? The research showed personality integration (BBQ tips, meme-making, "mediocre developer" humility) creates memorable positioning.
+5. ~~**Personality Element:**~~ → **"Building, not performing."** Anti-social-media. Let work speak. Substance over flash. This is a filter that attracts the right clients.
 
-### Service Offering Decisions
+8. ~~**Rate Range:**~~ → **No public rates.** Consultation-based only.
 
-6. **Primary Client Target:** Startups needing senior architecture, agencies seeking specialists, or enterprises building AI experiences? Messaging differs significantly.
+13. ~~**Personality Level:**~~ → **Subtle.** "Building, not performing" — professionalism with authentic voice, not playfulness or gimmicks.
 
-7. **Engagement Models:** What engagement types are preferred?
-   - Project-based (defined scope)
-   - Retainer (ongoing advisory)
-   - Fractional (part-time principal engineer)
-   - Training/workshops
+### Partially Answered — Need Refinement
 
-8. **Rate Range:** What is the target rate for consulting work? (Not for public display, but to inform positioning and client targeting)
+6. **Primary Client Target:** Still open. Startups needing senior architecture, agencies seeking specialists, or enterprises building AI experiences?
+
+7. **Engagement Models:** Leaning toward:
+   - Design system development
+   - AI feature prototyping & integration architecture
+   - Team mentoring/upskilling
+   - Code standards (implemented via AI bots)
+   - Training on AI patterns & design systems
+
+   **Still need to define:** What hands-on development work is actually interesting? (Tier 2 gap)
+
+10. **Content Investment:** Interested in short-form content, but needs concrete commitment. How many hours/week for content creation?
+
+17. **Case Study Approach:** Traditional case studies are limited (5+ year gap from FAANG work). Alternative approaches:
+   - Hypothetical/applied case studies (past experience → today's problems)
+   - Principle-based case studies (timeless patterns, not specific projects)
+   - Build-to-demonstrate projects
+   - Process documentation
+
+   **Question:** Which approach resonates most?
+
+### Still Open
 
 9. **Geographic Scope:** Local Bay Area only, US-based, or global remote work?
 
-10. **Content Investment:** How much time is available for content creation (blog posts, TILs, open source)? This significantly impacts positioning strategy.
+11. **Dark vs. Light Mode:** Default preference?
 
-### Design Direction Preferences
+12. **Visual Investment:** Given "design as operating system" — how much custom visual design for the site itself?
 
-11. **Dark vs. Light Mode:** Should dark mode be default (common for technical audiences) or light mode?
-
-12. **Visual Investment:** How much custom illustration or design work is appropriate? Options range from minimal (text-focused like [Simon Willison](https://simonwillison.net/)) to highly visual ([Maggie Appleton](https://maggieappleton.com/) custom SVGs).
-
-13. **Personality Level:** How much personality/playfulness is appropriate for target clients?
-
-14. **Photography:** Is there a professional photo available for use? Sites with photos generally perform better for personal consulting brands.
-
-### Feature Prioritization
+14. **Photography:** Professional photo available?
 
 15. **MVP Features:** For initial launch, which are essential?
     - [ ] Homepage with value proposition
     - [ ] About page with full bio
     - [ ] Services page with offerings
-    - [ ] Case studies (how many?)
+    - [ ] Case studies / proof section
     - [ ] Blog/insights section
     - [ ] Contact form
     - [ ] Newsletter signup
     - [ ] Resume/PDF download
 
-16. **Blog Strategy:** Start with curated posts on high-value topics, or TIL-style for volume? [Swyx](https://www.swyx.io/) and [Willison](https://simonwillison.net/) models differ here.
-
-17. **Case Study Depth:** Full detailed case studies or project summaries initially? Full case studies require more effort but provide better proof.
+16. **Blog Strategy:** Short-form screen recordings suggest TIL/practical direction. Confirm: curated depth or volume-based TIL?
 
 ### Technical Decisions
 
-18. **Framework Preference:** Astro (recommended in strategy) or Next.js (demonstrates React expertise)?
+18. **Framework Preference:** Astro (recommended) or Next.js?
 
 19. **Newsletter Platform:** Buttondown, ConvertKit, Substack, or other?
 
-20. **Contact Form Handling:** Simple form (Formspree, Netlify Forms) or integration with scheduling (Calendly)?
+20. **Contact Form Handling:** Simple form (Formspree, Netlify Forms) or scheduling integration (Calendly)?
 
 ---
 

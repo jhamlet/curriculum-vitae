@@ -2,7 +2,7 @@
 
 *Capturing feedback on research documents to clarify direction.*
 
-**Review Status:** Paused at "Service Offering Framework" section of comparatives-synthesis.md
+**Review Status:** Reviewing "Service Offering Framework" section of comparatives-synthesis.md
 **Last Updated:** 2025-12-06
 
 ---
@@ -32,6 +32,14 @@
   - All regions, languages
   - All device types: TVs, consoles, etc.
   - This is a concrete, massive-scale achievement worth featuring prominently
+
+**FAANG Credibility — Reframe:**
+- Pedigree is strong (Netflix, Meta)
+- **Key emphasis for Netflix:** Developer experience & automation
+  - Automating workflows
+  - Improving DX → improves company bottom line
+  - Not just building UI — building tools that make engineers more productive
+- This hints at what's interesting: *systems that amplify people*
 
 
 ### Astro Framework Overview
@@ -239,6 +247,26 @@
 
 ### Positioning Decisions
 
+- **Title preference:** "Creative Solutions Engineer"
+  - Deliberate contrast: "Creative" vs "Engineer"
+  - Bridges two worlds often seen as separate
+  - (Note: Earlier plan said "Architect" — "Engineer" is more hands-on)
+
+- **Value proposition elements:**
+  - Experience (27+ years)
+  - Craftsmanship
+  - Creative problem solving
+  - AI as the current chapter, built on deep foundation
+  - Draft: *"27+ years of design engineering experience now powering AI"*
+  - Pattern: Legacy expertise → current application
+
+- **Key metaphor: "I am the training data"**
+  - My experience, creativity, design, engineering *powers* the AI
+  - AI is a tool; the value is the human expertise that guides it
+  - "I'm the context the AI needs to be useful"
+  - Without domain expertise, AI produces noise
+  - This flips the narrative: Not "AI replaces humans" but "humans make AI valuable"
+
 - **Core differentiator:** Solutions across complex systems
   - Finding elegant, synthesized solutions — not just solving one piece
   - Cross-domain thinking as a skill (not just multi-stack knowledge)
@@ -252,18 +280,66 @@
   - Position as: AI-augmented builder (AI amplifies, doesn't replace)
   - Avoid: Being pigeonholed as "the AI guy"
 
-- **Design-Engineering Hybrid** — Probably the core strength
-  - Design is NOT just visual
+- **Design is not a "background" — it's the operating system**
+  - Not a separate skill or former career — it's *how I think*
+  - Design = finding patterns
+  - Design = weaving non-intuitive patterns together
+  - Design = synthesizing solutions others don't see
+  - The elegance comes from pattern recognition across domains
+  - Design is NOT just visual:
     - Marketing design
     - Workflow design
     - System design
     - Information architecture
     - Process design
   - "Design is everywhere, not just in front of your eyes"
-  - Design = intentional structure, elegant solutions, considered trade-offs
-  - This is meta-skill: design *thinking* applied to engineering problems
-  - Differentiator: Most engineers don't think this way
+  - Differentiator: Most engineers don't operate this way
 
+
+### Service Offering Preferences
+
+**Tier 1 — Strategic Consulting (resonates):**
+- Design system development ✓
+- AI feature prototyping ✓
+- Generative AI application development ✓
+- AI integration architecture ✓
+
+**Tier 1 — Not mentioned / lower priority:**
+- React/TypeScript architecture review
+- Performance optimization audits
+- Tech stack recommendations
+- LLM-powered interface design
+
+**Tier 2 — Needs Rethinking:**
+- TV/OTT and AR/VR engineering: *Vehicle, not expression of strengths*
+  - Don't overemphasize — use as proof of scale/capability, not direction
+  - Netflix/Meta = credibility, not identity
+- Cross-platform optimization: Not a selling point or interest
+- AI/Smart UI components: Not compelling as a service offering
+
+**Tier 2 — To Brainstorm:**
+- What hands-on development work *is* interesting?
+- What problems do you want to solve with code (not strategy)?
+- Consider: What would you build if no one was paying?
+
+**Tier 3 — Leadership & Mentoring (resonates):**
+- Team mentoring/upskilling ✓
+- Code standards development ✓
+  - Interesting angle: *Implemented through AI bots*
+  - Automated enforcement/guidance, not just documentation
+- AI integration patterns ✓
+- Design systems implementation ✓
+
+**Tier 3 — Not mentioned:**
+- Fractional principal engineer
+- React/TypeScript best practices (as standalone offering)
+
+**Pricing:** No public rates. Consultation-based only.
+
+**Service Descriptions:** Feel like fluff. Need to brainstorm what I actually want to *do*.
+- Positioning direction is clearer than service specifics
+- Need concrete answers to: "What work do I want to spend my days doing?"
+- This is the gap — identity is forming, but the *work* isn't defined yet
 
 ### Technical Decisions
 
