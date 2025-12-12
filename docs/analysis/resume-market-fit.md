@@ -7,6 +7,55 @@
 
 ---
 
+## Context for Continuation
+
+This document is part of a career repositioning effort from "Senior UI Engineer" to "Creative Solutions Engineer leveraging AI-augmented development."
+
+### Where We Are
+
+1. **Research complete** — Market demand analysis and positioning strategy finalized
+2. **Three resume variations created** — Solutions, Standard, Hybrid formats
+3. **Gap analysis complete** — 10 market questions evaluated, critical gaps identified
+4. **Recommendations documented** — Actionable items with examples and rationale
+
+### Critical Gaps to Address (Priority Order)
+
+1. **Timeline gap (2022-2025)** — No explanation for 3 years since Meta. Must add "Recent Focus" section.
+2. **AI proof points** — Claims without evidence. Need spec-driven development story + methodology articulation.
+3. **Business outcome framing** — Technical achievements need ROI/business language.
+4. **Remote/async signals** — Implicit but not explicit. Important for contractor positioning.
+5. **Leadership/mentoring quantification** — Undersold for Principal level.
+
+### Suggested Approach: Consolidate First
+
+Rather than updating three resumes in parallel, consider:
+
+1. **Pick one resume as the "source of truth"** — Recommend `resume-hybrid.md` (best balance, closest to ready)
+2. **Address all gaps in that single file** — Work through Priority Recommendations 1-5
+3. **Perfect the content** — Get the narrative, proof points, and framing right
+4. **Then derive variations** — Create Solutions and Standard versions from the perfected Hybrid
+
+This avoids triple-maintaining content and ensures consistency.
+
+### Files
+
+| File                                      | Purpose                                       | Status     |
+| ----------------------------------------- | --------------------------------------------- | ---------- |
+| `resume-hybrid.md`                        | Recommended base for consolidation            | Needs gaps |
+| `resume-solutions.md`                     | Outcome-first, for conversations/human review | Needs gaps |
+| `resume-standard.md`                      | ATS-friendly, conservative clients            | Needs gaps |
+| `docs/research/market-demand-analysis.md` | Market research backing recommendations       | Complete   |
+| `docs/guides/positioning-strategy.md`     | Positioning guidance and go-to-market         | Complete   |
+
+### How to Use This Document
+
+1. **Priority Recommendations** (bottom of doc) — Start here, work top to bottom
+2. **Market Questions** — Reference for "why" behind each recommendation
+3. **Before/After Examples** — In collapsible `<details>` sections throughout
+4. **Gap Handling Guides** — Collapsible sections for timeline gap and AI proof challenges
+
+---
+
 ## Executive Summary
 
 All three resume variations demonstrate strong foundational credentials (Netflix global scaling, Meta AR/VR platform work, 27+ years of experience) but exhibit varying degrees of alignment with current market expectations for senior/principal AI-augmented solution engineering roles.
