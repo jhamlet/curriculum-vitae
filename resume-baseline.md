@@ -7,57 +7,54 @@
 
 ## Summary
 
-Built tooling that enabled Netflix TVUI to scale from one platform to
-212 countries and served 200+ engineers at Meta. Senior UI Engineer
-specializing in complex, cross-cutting problems that don't fit neatly
-into one team's backlog. Design-informed engineering: complexity emerges
-from simple patterns composed together.
+Senior UI Engineer with 27+ years bridging design and engineering. I
+take on complex, cross-cutting problems that don't fit neatly into one
+team's backlog — like build tooling that enabled Netflix TVUI to scale
+from one platform to 212 countries.
+
+Design-informed engineering — complexity emerges from simple patterns
+composed together.
+
+## Recent Focus
+
+- **2025-Present:** Exploring the modern development landscape. Ready to
+  bring deep experience to today's ecosystem.
+
+- **2023-2025:** Break after two decades of high-intensity work in
+  Silicon Valley. Reset, recharge, rediscover what makes the work
+  interesting.
 
 ## Core Capabilities
 
-- **Design Systems:** Bridging design and engineering with scalable,
-  maintainable component architectures.
-- **Cross-Platform Solutions:** Single architectures serving diverse
-  environments: TVs, consoles, mobile, web, constrained devices.
-- **Developer Experience:** Building tools and processes that make teams
-  more effective. Build systems, automation, productivity multipliers.
 - **Systems Architecture:** Understanding how parts connect, where
   bottlenecks hide, and what simplicity looks like on the other side of
   complexity.
+- **Developer Experience:** Building tools and processes that make teams
+  more effective. Build systems, automation, productivity multipliers.
+- **Cross-Platform Solutions:** Single architectures serving diverse
+  environments: TVs, consoles, mobile, web, constrained devices.
+- **Design Systems:** Bridging design and engineering with scalable,
+  maintainable component architectures.
 
 ## Experience
-
-### Strategic Reset & Technical Refinement _Self-Employed_ **2022 - Present**
-
-- Skill refinement period: modern React ecosystem (Server Components,
-  TypeScript 5.x, Vite), spec-driven development methodology
-- Open-source Vim plugin development: file watcher integration, reactive
-  patterns, cross-process communication via Unix sockets
-- Developer tooling: built queue-based media processing pipeline with
-  atomic operations, continuous monitoring, machine-specific configuration
-
----
 
 ### Senior UI Engineer _Meta_ **Aug 2018 - Mar 2022**
 
 **Infra | Jan 2021 - Mar 2022**
 
-- UI tooling serving **200+ engineers** across Meta's infrastructure
-  organization; designed reusable component patterns (React + Relay)
-  reducing custom implementations by **40%**
-- Mentored **5 engineers** on architectural thinking and problem solving;
-  **3 achieved promotion** to senior level
+- Identified common variations across team UIs; designed patterns to
+  encapsulate differences and reduce custom implementations
+- Mentored engineers on architectural thinking and problem solving —
+  supporting their growth into leadership
 
-**AR/VR Core Tech | Aug 2018 - Dec 2020**
+**AR/VR Core Tech (AI Data Systems) | Aug 2018 - Dec 2020**
 
-- Internal platform (Gaia) serving **thousands of engineers** across
-  Meta's AR/VR division for data exploration and visualization
 - Transformed legacy CRUD interface into modern GraphQL-driven UI with
-  Relay; reduced data scientist query-to-visualization time by **60%**
-- Built video annotation tools and Paper3D/WebGL rendering for
-  hand-tracking data review — tools used across multiple product teams
-- Solo engineer proving web platform value; work drove allocation of
-  **3 additional engineers** to the project
+  cross-dataset connection surfacing
+- Built video annotation tools and Paper3D rendering for video
+  processing and hand-tracking data review
+- Solo engineer proving web platform value; work drove management to
+  allocate additional resources to the project
 
 ---
 
@@ -73,8 +70,7 @@ from simple patterns composed together.
 
 ### Principal UI Engineer _Airtime Media_ **Aug 2016 - Jun 2017**
 
-- Real-time video chat platform with synchronized media playback;
-  architected cross-platform component system for web and Electron
+- Social experience platform for web and desktop
 
 ---
 
@@ -82,13 +78,12 @@ from simple patterns composed together.
 
 **TVUI Discovery Experience**
 
-- Build system: Node.js tooling reducing developer rebuilds from **40
-  seconds to near-zero** through incremental compilation and intelligent
-  dependency tracking — infrastructure maintained **3+ years** through
-  exponential growth, saving millions in productivity across hundreds of
-  engineers
 - Streaming experience for **100M+ users** across **212 countries** on
   TVs, consoles, and set-top boxes
+- Build system: developer rebuilds from **40 seconds to near-zero** --
+  saving millions in productivity
+- Infrastructure maintained **3+ years** through exponential growth in
+  device coverage
 - Search architecture using functional reactive programming across **15+
   languages**
 - i18n standards enabling regional expansion without UI rework
@@ -123,7 +118,6 @@ agency growth, SanDisk product line across 30+ languages.
 
 ### Technical
 
-- TypeScript
 - JavaScript
 - React
 - GraphQL
@@ -132,10 +126,15 @@ agency growth, SanDisk product line across 30+ languages.
 - Ramda
 - Functional Programming
 - Reactive Programming
+- Flow/TypeScript
 - Jest
+- Webpack
 
 ### Design Foundation
 
-- UI/UX Design
+- UI/UX
 - Information Architecture
 - Visual Design
+- Branding
+- Marketing
+- Illustration
