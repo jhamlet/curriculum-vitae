@@ -7,10 +7,10 @@
 
 ## Summary
 
-Senior UI Engineer specializing in complex, cross-cutting problems that
-don't fit neatly into one team's backlog. Built tooling that enabled
-Netflix TVUI to scale from one platform to 212 countries and served
-200+ engineers at Meta. Design-informed engineering: complexity emerges
+Built tooling that enabled Netflix TVUI to scale from one platform to
+212 countries and served 200+ engineers at Meta. Senior UI Engineer
+specializing in complex, cross-cutting problems that don't fit neatly
+into one team's backlog. Design-informed engineering: complexity emerges
 from simple patterns composed together.
 
 ## Core Capabilities
@@ -27,10 +27,13 @@ from simple patterns composed together.
 
 ## Experience
 
-### Independent Consulting _Self-Employed_ **2022 - Present**
+### Career Break & Technical Exploration _Self-Employed_ **2022 - Present**
 
-- Professional development and selective consulting engagements
-- Open-source contributions and methodology refinement
+- Intentional pause following burnout; renewed focus on sustainable work
+- Deep exploration of modern React ecosystem: Server Components,
+  TypeScript 5.x, Vite build tooling
+- Methodology refinement: spec-driven development patterns separating
+  requirements capture from implementation
 
 ---
 
@@ -80,8 +83,9 @@ from simple patterns composed together.
 
 - Streaming experience for **100M+ users** across **212 countries** on
   TVs, consoles, and set-top boxes
-- Build system: developer rebuilds from **40 seconds to near-zero** --
-  saving millions in productivity
+- Build system: developer rebuilds from **40 seconds to near-zero**
+  through incremental compilation and intelligent dependency tracking --
+  saving millions in productivity across hundreds of engineers
 - Infrastructure maintained **3+ years** through exponential growth in
   device coverage
 - Search architecture using functional reactive programming across **15+
