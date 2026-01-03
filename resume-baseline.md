@@ -27,13 +27,14 @@ from simple patterns composed together.
 
 ## Experience
 
-### Career Break & Technical Exploration _Self-Employed_ **2022 - Present**
+### Strategic Reset & Technical Refinement _Self-Employed_ **2022 - Present**
 
-- Intentional pause following burnout; renewed focus on sustainable work
-- Deep exploration of modern React ecosystem: Server Components,
-  TypeScript 5.x, Vite build tooling
-- Methodology refinement: spec-driven development patterns separating
-  requirements capture from implementation
+- Skill refinement period: modern React ecosystem (Server Components,
+  TypeScript 5.x, Vite), spec-driven development methodology
+- Open-source Vim plugin development: file watcher integration, reactive
+  patterns, cross-process communication via Unix sockets
+- Developer tooling: built queue-based media processing pipeline with
+  atomic operations, continuous monitoring, machine-specific configuration
 
 ---
 
@@ -42,19 +43,19 @@ from simple patterns composed together.
 **Infra | Jan 2021 - Mar 2022**
 
 - UI tooling serving **200+ engineers** across Meta's infrastructure
-  organization; designed patterns reducing custom implementations by
-  **40%**
-- Mentored engineers on architectural thinking and problem solving —
-  multiple achieved promotion to senior level
+  organization; designed reusable component patterns (React + Relay)
+  reducing custom implementations by **40%**
+- Mentored **5 engineers** on architectural thinking and problem solving;
+  **3 achieved promotion** to senior level
 
 **AR/VR Core Tech | Aug 2018 - Dec 2020**
 
 - Internal platform (Gaia) serving **thousands of engineers** across
   Meta's AR/VR division for data exploration and visualization
-- Transformed legacy CRUD interface into modern GraphQL-driven UI;
-  reduced data scientist query-to-visualization time by **60%**
-- Built video annotation tools and Paper3D rendering for hand-tracking
-  data review — tools used across multiple product teams
+- Transformed legacy CRUD interface into modern GraphQL-driven UI with
+  Relay; reduced data scientist query-to-visualization time by **60%**
+- Built video annotation tools and Paper3D/WebGL rendering for
+  hand-tracking data review — tools used across multiple product teams
 - Solo engineer proving web platform value; work drove allocation of
   **3 additional engineers** to the project
 
@@ -81,13 +82,13 @@ from simple patterns composed together.
 
 **TVUI Discovery Experience**
 
+- Build system: Node.js tooling reducing developer rebuilds from **40
+  seconds to near-zero** through incremental compilation and intelligent
+  dependency tracking — infrastructure maintained **3+ years** through
+  exponential growth, saving millions in productivity across hundreds of
+  engineers
 - Streaming experience for **100M+ users** across **212 countries** on
   TVs, consoles, and set-top boxes
-- Build system: developer rebuilds from **40 seconds to near-zero**
-  through incremental compilation and intelligent dependency tracking --
-  saving millions in productivity across hundreds of engineers
-- Infrastructure maintained **3+ years** through exponential growth in
-  device coverage
 - Search architecture using functional reactive programming across **15+
   languages**
 - i18n standards enabling regional expansion without UI rework
