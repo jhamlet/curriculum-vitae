@@ -1,6 +1,6 @@
 # Jerry Hamlet
 
-**Creative Solutions Engineer**
+**Senior UI Engineer**
 
 [jerry@hamletzone.com](mailto:jerry@hamletzone.com) | [+1.510.432.4317](tel:+15104324317) | [LinkedIn](https://www.linkedin.com/in/jerryhamlet) | [GitHub](https://github.com/jhamlet)
 
@@ -8,31 +8,29 @@
 
 ## Summary
 
-Creative Solutions Engineer specializing in AI-augmented architecture and spec-driven development. 27+ years bridging design and engineering — now amplified by AI tooling that makes experience compound faster.
+Senior UI Engineer with 27+ years bridging design and engineering. I take on complex, cross-cutting problems that don't fit neatly into one team's backlog — building systems that scale and tools that make teams more effective.
 
-I take on complex, cross-cutting problems that don't fit neatly into one team's backlog. The elegance comes from pattern recognition across domains.
+Design-informed engineering with pattern recognition across domains. The elegance comes from seeing connections others miss.
 
 ---
 
 ## Recent Focus
 
-**2025-Present**: Deep dive into AI-augmented development. Developing spec-driven methodology: structured requirements that AI agents consume to generate predictable implementations. Independently discovered this approach before GitHub validated it with their Spec Kit release.
+**2025-Present**: Re-engaging with the industry. Exploring what's next.
 
 **2023-2025**: Break after two decades of high-intensity work in Silicon Valley. Reset, recharge, rediscover what makes the work interesting.
-
-27 years of pattern recognition now amplified by AI tooling — the experience makes the AI more effective, not the other way around.
 
 ---
 
 ## Core Capabilities
-
-**AI-Augmented Development** -- Orchestrating multi-agent workflows for complex tasks. Spec-driven development that turns requirements into working systems.
 
 **Systems Architecture** -- Understanding how parts connect, where bottlenecks hide, and what simplicity looks like on the other side of complexity.
 
 **Developer Experience** -- Building tools and processes that make teams more effective. Build systems, automation, productivity multipliers.
 
 **Cross-Platform Solutions** -- Single architectures serving diverse environments: TVs, consoles, mobile, web, constrained devices.
+
+**Design Systems** -- Bridging design and engineering with scalable, maintainable component architectures.
 
 ---
 
@@ -93,15 +91,11 @@ International Search
 
 ### Core
 
-AI-Augmented Development | Systems Architecture | Design Systems | Spec-Driven Development | Developer Experience
+Systems Architecture | Design Systems | Developer Experience | Cross-Platform Development | Internationalization
 
 ### Technical
 
 JavaScript | React | GraphQL | Node.js | RxJs | Ramda | Functional Programming | Reactive Programming | TypeScript
-
-### AI/ML Integration
-
-Multi-Agent Orchestration | Model Context Protocol (MCP) | Prompt Engineering | AI Workflow Design
 
 ### Design Foundation
 
