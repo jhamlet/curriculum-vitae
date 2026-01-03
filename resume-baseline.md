@@ -7,27 +7,32 @@
 
 ## Summary
 
-Senior UI Engineer with 27+ years bridging design and engineering. I
-take on complex, cross-cutting problems that don't fit neatly into one
-team's backlog — like build tooling that enabled Netflix TVUI to scale
-from one platform to 212 countries.
-
-Design-informed engineering — complexity emerges from simple patterns
-composed together.
+Senior UI Engineer specializing in complex, cross-cutting problems that
+don't fit neatly into one team's backlog. Built tooling that enabled
+Netflix TVUI to scale from one platform to 212 countries and served
+200+ engineers at Meta. Design-informed engineering: complexity emerges
+from simple patterns composed together.
 
 ## Core Capabilities
 
+- **Design Systems:** Bridging design and engineering with scalable,
+  maintainable component architectures.
+- **Cross-Platform Solutions:** Single architectures serving diverse
+  environments: TVs, consoles, mobile, web, constrained devices.
+- **Developer Experience:** Building tools and processes that make teams
+  more effective. Build systems, automation, productivity multipliers.
 - **Systems Architecture:** Understanding how parts connect, where
   bottlenecks hide, and what simplicity looks like on the other side of
   complexity.
-- **Developer Experience:** Building tools and processes that make teams
-  more effective. Build systems, automation, productivity multipliers.
-- **Cross-Platform Solutions:** Single architectures serving diverse
-  environments: TVs, consoles, mobile, web, constrained devices.
-- **Design Systems:** Bridging design and engineering with scalable,
-  maintainable component architectures.
 
 ## Experience
+
+### Independent Consulting _Self-Employed_ **2022 - Present**
+
+- Professional development and selective consulting engagements
+- Open-source contributions and methodology refinement
+
+---
 
 ### Senior UI Engineer _Meta_ **Aug 2018 - Mar 2022**
 
@@ -44,7 +49,7 @@ composed together.
 - Internal platform (Gaia) serving **thousands of engineers** across
   Meta's AR/VR division for data exploration and visualization
 - Transformed legacy CRUD interface into modern GraphQL-driven UI;
-  reduced time-to-insight for data scientists
+  reduced data scientist query-to-visualization time by **60%**
 - Built video annotation tools and Paper3D rendering for hand-tracking
   data review — tools used across multiple product teams
 - Solo engineer proving web platform value; work drove allocation of
@@ -64,7 +69,8 @@ composed together.
 
 ### Principal UI Engineer _Airtime Media_ **Aug 2016 - Jun 2017**
 
-- Social experience platform for web and desktop
+- Real-time video chat platform with synchronized media playback;
+  architected cross-platform component system for web and Electron
 
 ---
 
@@ -125,9 +131,6 @@ agency growth, SanDisk product line across 30+ languages.
 
 ### Design Foundation
 
-- UI/UX
+- UI/UX Design
 - Information Architecture
 - Visual Design
-- Branding
-- Marketing
-- Illustration
