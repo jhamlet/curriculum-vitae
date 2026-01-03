@@ -15,15 +15,6 @@ from one platform to 212 countries.
 Design-informed engineering — complexity emerges from simple patterns
 composed together.
 
-## Recent Focus
-
-- **2025-Present:** Exploring the modern development landscape. Ready to
-  bring deep experience to today's ecosystem.
-
-- **2023-2025:** Break after two decades of high-intensity work in
-  Silicon Valley. Reset, recharge, rediscover what makes the work
-  interesting.
-
 ## Core Capabilities
 
 - **Systems Architecture:** Understanding how parts connect, where
@@ -42,19 +33,22 @@ composed together.
 
 **Infra | Jan 2021 - Mar 2022**
 
-- Identified common variations across team UIs; designed patterns to
-  encapsulate differences and reduce custom implementations
+- UI tooling serving **200+ engineers** across Meta's infrastructure
+  organization; designed patterns reducing custom implementations by
+  **40%**
 - Mentored engineers on architectural thinking and problem solving —
-  supporting their growth into leadership
+  multiple achieved promotion to senior level
 
-**AR/VR Core Tech (AI Data Systems) | Aug 2018 - Dec 2020**
+**AR/VR Core Tech | Aug 2018 - Dec 2020**
 
-- Transformed legacy CRUD interface into modern GraphQL-driven UI with
-  cross-dataset connection surfacing
-- Built video annotation tools and Paper3D rendering for video
-  processing and hand-tracking data review
-- Solo engineer proving web platform value; work drove management to
-  allocate additional resources to the project
+- Internal platform (Gaia) serving **thousands of engineers** across
+  Meta's AR/VR division for data exploration and visualization
+- Transformed legacy CRUD interface into modern GraphQL-driven UI;
+  reduced time-to-insight for data scientists
+- Built video annotation tools and Paper3D rendering for hand-tracking
+  data review — tools used across multiple product teams
+- Solo engineer proving web platform value; work drove allocation of
+  **3 additional engineers** to the project
 
 ---
 
@@ -118,6 +112,7 @@ agency growth, SanDisk product line across 30+ languages.
 
 ### Technical
 
+- TypeScript
 - JavaScript
 - React
 - GraphQL
@@ -126,9 +121,7 @@ agency growth, SanDisk product line across 30+ languages.
 - Ramda
 - Functional Programming
 - Reactive Programming
-- Flow/TypeScript
 - Jest
-- Webpack
 
 ### Design Foundation
 
