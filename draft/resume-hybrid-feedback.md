@@ -6,60 +6,58 @@
 
 ### Scores
 
-| Persona          | Score  | Verdict        |
-| ---------------- | ------ | -------------- |
-| Startup Founder  | 7/10   | Yes            |
-| Engineering HM   | 6/10   | Maybe          |
-| Strategic Leader | 6.5/10 | Delegate to HM |
+| Persona          | Score | Verdict |
+| ---------------- | ----- | ------- |
+| Startup Founder  | 7/10  | Yes     |
+| Engineering HM   | 6/10  | Maybe   |
+| Strategic Leader | 7/10  | Yes     |
 
 ### Consensus Issues (2+ personas)
 
-- **Recency gap (2023-2025):** All 3 personas flagged. Nearly 4 years
-  since production engineering. Add evidence of current capability,
-  recent shipping, or concrete AI methodology outputs.
-- **AI methodology lacks production validation:** All 3 personas.
-  "Spec-driven development" is compelling theory but no shipped
-  examples. Add work samples, GitHub activity, or real-world
-  applications.
-- **"Creative Solutions Engineer" title causes confusion:** All 3
-  personas. Non-standard title obscures level/role fit. Consider
-  clarifying in summary or using more standard title variant.
-- **Weak mentorship evidence:** Morgan and Jordan. "Mentored engineers"
-  mentioned but no outcomes (promotions, team growth, processes
-  established). Add quantified mentorship results for principal-level
-  credibility.
-- **Missing recent shipped artifacts:** Alex and Morgan. No GitHub
-  links, open source contributions, or recent work samples to evaluate.
-  Add portfolio links or recent project examples.
+- **4-year employment gap (Mar 2022 - present):** All 3 personas
+  flagged. "Rest, reset, and recharge" is insufficient. Need evidence of
+  recent activity (projects, learning, consulting, open source).
+- **AI skills unsubstantiated:** All 3 personas noted AI/ML Integration
+  skills lack production evidence. Multi-Agent Orchestration, MCP,
+  Claude Code Extension Development listed but no shipped work
+  demonstrated.
+- **Recent work lacks business metrics:** Morgan and Jordan flagged.
+  Meta tenure shows scale but no Tier 1 business outcomes (revenue, cost
+  savings). Quantification concentrated in earlier career.
 
 ### Conflicting Feedback
 
-- **Big-company vs startup experience relevance:** Alex says
-  LogicHub/Airtime more relevant to startup context; Morgan weights
-  Netflix/Meta as key credibility
-  - Resolution: Keep both; Netflix/Meta provides scale credibility,
-    earlier startup work shows scrappiness. No change needed.
-- **Contract-to-hire positioning:** Alex sees transparency as positive;
-  Morgan sees commitment concern
-  - Resolution: Keep positioning but be prepared to address in
-    conversations. The transparency is intentional per author profile.
+- **Title "Creative Principal Engineer":**
+  - Alex (positive): "signals someone who thinks differently"
+  - Morgan (concern): "non-standard...may cause confusion in ATS
+    systems"
+  - Resolution: Keep title for target audience (startups, growth-stage).
+    Consider standard title variant for enterprise/structured hiring
+    processes.
+- **Mentorship emphasis:**
+  - Alex: Slight concern it signals strategic perch-seeking vs IC energy
+  - Jordan: Positive culture signal ("investment in people")
+  - Resolution: Maintain mentorship evidence but ensure IC output is
+    foregrounded. Address IC energy directly in cover
+    letters/conversations.
 
 ### Blocking Issues
 
-- None (all scores >= 5)
+- Morgan's 6/10 score is in "Maybe" range (5-6). Per scoring guide:
+  "Significant work needed, iterate." Must address before promotion to
+  pub/.
+- Key blockers from Morgan: gap explanation, AI skills substantiation,
+  recency of production experience.
 
 ### Next Steps
 
-- [ ] Add recent work samples or GitHub activity demonstrating current
-      capability
-- [ ] Strengthen AI methodology section with concrete outputs or
-      production examples
-- [ ] Add quantified mentorship outcomes (engineers promoted, teams
-      built, processes established)
-- [ ] Consider clarifying "Creative Solutions Engineer" title or adding
-      role-level context
-- [ ] Add evidence addressing the 2023-2025 gap (what was built during
-      this period)
+- [ ] Add specific AI project deliverables with measurable outcomes to
+      AI/ML Integration section
+- [ ] Expand gap period narrative or add "Recent Projects" section
+      demonstrating current shipping velocity
+- [ ] Add business impact metrics to Meta AR/VR and Infra bullets
+- [ ] Consider GitHub/portfolio link to evidence recent work
+- [ ] Re-run Morgan review after addressing gap and AI concerns
 
 ---
 
@@ -69,144 +67,119 @@
 
 ### First Impression (60 seconds)
 
-The "Creative Solutions Engineer" title gave me pause initially -- it
-sounds like it could be fluffy consultant-speak. But the summary quickly
-corrects that impression with specifics: AI-augmented architecture,
-spec-driven development, cross-cutting problems. The Netflix and Meta
-experience establishes credibility immediately.
+The title "Creative Principal Engineer" immediately caught my attention
+-- it signals someone who thinks differently, not just another
+cookie-cutter senior IC. The summary hits the right notes: "ship
+faster," "cross-cutting problems," "builder who ships at scale." The
+FAANG presence (Netflix, Meta) is there but not leading -- good. The
+"rest, reset, and recharge" language is honest and I respect that
+transparency over a polished gap-explanation. My gut says "experienced
+builder who can probably ship," but I need to check if that's
+pedigree-bias talking.
 
-Gut reaction: This person has built real things at scale. The "27+
-years" initially triggered a concern (are they going to move at startup
-pace?), but the "Recent Focus" section showing active work on AI
-methodology and the deliberate break language suggests self-awareness
-rather than someone coasting.
-
-Bias check: I noticed I was initially skeptical of the career break but
-then favorably disposed once I saw the AI work. Am I over-indexing on
-the AI angle because it's trendy? Possibly. The fundamentals (Netflix
-global scale, Meta infrastructure) are solid regardless.
+_Bias check:_ I noticed I responded positively to Netflix/Meta names.
+Consciously decoupling brand from actual evidence.
 
 ### Builder Signals
 
-- **Evidence of creating vs operating:**
-  - Netflix build system: "developer rebuilds from 40 seconds to
-    near-zero" -- this is building infrastructure, not just using it
-  - Meta AR/VR: "Cross-functional solution addressing 80% of varied user
-    needs" -- built a platform that served diverse teams
-  - Halleck: "$750K contract" and "300% search improvement" -- built and
-    delivered measurable outcomes for clients
-  - Spec-driven methodology: "Independently discovered this approach
-    before GitHub validated it" -- developing methodology, not just
-    following playbooks
+- **Evidence of creating vs operating:** Strong. Built Netflix TVUI
+  build system (40s to near-zero rebuilds). Created cross-functional
+  AR/VR solution serving "80% of varied user needs." Defacto Search UI
+  across 15+ languages. These are creation stories, not maintenance
+  stories.
 
-- **Ownership without permission:**
-  - The spec-driven development work during 2025 is self-initiated
-    independent research
-  - The Netflix build system improvement suggests someone who saw
-    inefficiency and fixed it (though more explicit language about
-    initiative would strengthen this)
-  - "Problems that don't fit neatly into one team's backlog" -- this is
-    ownership language
+- **Ownership without permission:** Implicit but not explicit. The
+  Netflix build system improvement reads like someone who saw a problem
+  and fixed it without being asked. Would want to hear the story
+  directly -- did you wait for assignment or initiate?
 
-- **Partner potential indicators:**
-  - Mentorship appears twice (Meta, LogicHub) -- suggests they make
-    teams better
-  - Cross-functional problem-solving orientation
-  - Design background gives strategic perspective beyond pure
-    engineering
-  - The "elegance" and "pattern recognition" language suggests someone
-    who cares about quality, not just shipping
+- **Partner potential indicators:** Moderate-to-strong. Mentored
+  engineers who advanced to senior roles. Design foundation +
+  engineering mastery suggests range. The positioning as someone who
+  "teaches while building" and handles "cross-cutting problems" suggests
+  they think beyond their own code.
 
 ### Strengths
 
-- **Scale track record with specific outcomes:** "100M+ users across 212
-  countries," "thousands of engineers," "40 seconds to near-zero" --
-  concrete numbers that demonstrate real impact
+- **Scale without arrogance:** "100M+ users," "212 countries,"
+  "thousands of scientists and engineers" -- these numbers communicate
+  impact without corporate chest-puffing. The writing is direct, not
+  inflated.
 
-- **Modern AI integration that's substantive, not buzzwordy:**
-  Spec-driven development with independent validation (GitHub Spec Kit),
-  multi-agent orchestration -- this isn't "I used ChatGPT," it's
-  methodology development
+- **Force-multiplier mindset:** Build system savings, team mentorship,
+  i18n standards enabling expansion. This person thinks about leverage
+  and repeatability, not just shipping features.
 
-- **Design foundation creates differentiation:** Most engineers at this
-  level are pure technicians. The design background suggests someone who
-  understands user problems, not just technical problems. This is
-  valuable for product decisions.
+- **Design-to-engineering arc:** Unusual trajectory. Pattern
+  recognition, visual thinking, systems architecture -- this is someone
+  who can bridge conversations between product/design and engineering.
+  Valuable in a small team where we can't afford silos.
 
-- **Systems thinker:** "Understanding how parts connect, where
-  bottlenecks hide" -- this is exactly what I need. Someone who can see
-  the whole system, not just their piece.
+- **Modern stack + AI fluency:** Claude Code extension development, MCP,
+  multi-agent orchestration. Not just talking about AI -- building with
+  it.
 
-- **Self-aware about work style:** The break narrative, the
-  "cross-cutting problems" framing, the explicit "what not how" in the
-  YAML metadata -- this person knows what environment they work best in.
+- **Specificity of outcomes:** "40 seconds to near-zero," "10% bandwidth
+  savings," "300% search improvement." Quantified where it matters.
 
 ### Concerns
 
-- **2023-2025 gap and current velocity:** Two years is a long break. The
-  2025 work on AI methodology is encouraging, but it's self-directed
-  research, not client delivery. Is there rust? Can they still ship
-  under real constraints and deadlines?
+- **Gap period uncertainty:** "Rest, reset, and recharge" is honest, but
+  what have you been building during this time? The AI skills listed
+  suggest recent work -- is there a project I can look at? A GitHub
+  repo? A side project? For contract work especially, I need evidence of
+  recent shipping velocity.
 
-- **Big-company imprint unclear:** Netflix and Meta are scaled
-  environments with support systems. LogicHub and Airtime were smaller,
-  but they're also older (2016-2018). What evidence is there of recent
-  scrappiness?
+- **Enterprise scale vs. startup scrappiness:** Netflix and Meta are
+  sophisticated environments with mature infrastructure. Can you operate
+  without that infrastructure? Your earlier experience (BIG Design,
+  Halleck, Freelance) suggests yes, but it's 15+ years old. What's the
+  recent evidence of scrappy-mode?
 
-- **Contract-to-hire readiness:** The "autonomy on approach" language
-  and "clear problem ownership" constraints suggest someone who knows
-  what they want. Good. But will they be flexible enough for the
-  ambiguity of a 30-person company where roles blur daily?
+- **Mentorship emphasis vs. IC output:** "Mentored team of 6-7
+  engineers" is great for a staff+ role at a larger company. At my
+  stage, I need hands-on shipping first, mentorship second. The resume
+  leans toward the mentorship narrative. Will you be annoyed doing IC
+  work, or energized by it?
 
-- **Missing: side projects, open source, recent shipping:** The AI
-  methodology work is promising but abstract. No links to GitHub
-  projects (despite GitHub being listed), no open source contributions
-  mentioned, no recent shipped artifacts I can evaluate.
+- **Missing: recent concrete deliverables.** The AI/ML Integration
+  section lists capabilities but no shipped work. "Multi-Agent
+  Orchestration" and "Claude Code Extension Development" -- are these
+  production systems or experiments?
 
 ### Bias Check
 
 Did any of these biases potentially influence your assessment?
 
-- **Culture fit bias:** Possibly mild. The "building not performing"
-  angle resonates with my own values, which might be making me more
-  favorable than the evidence warrants.
+- **Culture fit bias:** Not triggered. Background is different from mine
+  (design foundation, agency experience). If anything, that's a culture
+  _add_ -- perspective I don't have on the team.
 
-- **Pedigree shortcuts:** Yes, I noticed Netflix/Meta created positive
-  halo. I need to weigh the LogicHub/Airtime/BIG Design work equally --
-  those are actually more relevant to startup context.
+- **Pedigree shortcuts:** Partially triggered. I caught myself weighting
+  Netflix/Meta positively before reading the actual accomplishments.
+  Re-reading: the accomplishments justify the interest independently.
 
-- **Gut feeling without evidence:** The AI methodology work feels
-  compelling but I haven't seen evidence of it working. I'm inferring
-  capability from description rather than results.
+- **Gut feeling without evidence:** My concern about "will they enjoy IC
+  work" is gut-based. No evidence they won't. Flagging this as a
+  question to ask, not a rejection reason.
 
 ### Missing Information
 
-What would you need to see to move forward?
-
-1. **Recent work samples:** What does the spec-driven methodology
-   actually produce? Any examples, even from personal projects?
-
-2. **GitHub activity:** The profile link is there -- is it active?
-   Recent commits? Open source work?
-
-3. **References from recent collaborators:** The Meta work ended
-   in 2022. Who has worked with this person in the last 2 years?
-
-4. **Specific AI tooling:** "Multi-agent orchestration" is abstract.
-   Which tools? What workflows? What scale?
-
-5. **Startup-scale example:** The best evidence would be recent work
-   with a smaller team under resource constraints.
+- Recent work samples (GitHub, side projects, portfolio) demonstrating
+  current shipping velocity
+- Specific AI-augmented project with measurable outcome
+- Indication of rate expectations / engagement model
+- Clarity on what "Creative Principal Engineer" role looks like in
+  practice at a 20-50 person company vs. Meta Infra
 
 ### Verdict
 
-**Yes, I'd reach out.** The fundamentals are strong: real scale
-experience, builder mentality, design-informed perspective, and active
-engagement with AI methodology (not just using it, developing it). The
-2023-2025 gap and lack of recent shipped work are concerns I'd probe in
-conversation, but not disqualifying. This person could be a strong
-contributor who's re-entering the market with fresh perspective -- or
-someone who's lost a step. A 30-minute call would tell me which.
+**Would reach out.** The builder signals are strong, the scale is
+proven, and the design-engineering bridge is rare. The concerns are
+addressable in a 30-minute call. I'd want to see evidence of recent
+output and probe whether they're genuinely excited about hands-on work
+vs. seeking a strategic perch. Contract-to-hire is the right framing --
+let's see what shipping looks like before committing.
 
 ---
 
@@ -216,318 +189,291 @@ someone who's lost a step. A 30-minute call would tell me which.
 
 ### Initial Scan (15 seconds)
 
-What jumped out: "Creative Solutions Engineer" is non-standard title -
-had to parse what this actually means. Netflix and Meta immediately
-recognizable. 27+ years signals very senior. "AI-augmented development"
-in summary caught attention. Clear contact info and professional layout.
+Title "Creative Principal Engineer" is non-standard -- caused brief
+confusion. Current title at Meta (Principal UI Engineer) registers
+immediately. Meta and Netflix are recognizable brands that carry weight.
+The 4-year gap (Mar 2022 to present) stands out immediately in the
+timeline. Summary paragraph caught my eye for being conversational
+rather than achievement-focused. Skills section covers relevant modern
+technologies.
 
-Did it pass the quick filter? Yes, moved to Phase 2. Brand recognition
-(Netflix, Meta) and Principal-level titles warrant deeper review.
-However, the 2023-2025 gap and custom title create questions that need
-answering.
+Passed quick filter: Yes, but with questions about gap and title.
 
 ### Technical Fit
 
-- Stack alignment: **Moderate fit for frontend-heavy roles.**
-  JavaScript, React, Node.js, TypeScript are current and relevant.
-  GraphQL experience is valuable. RxJs/Ramda indicate functional
-  programming depth. Missing: No explicit backend language depth, no
-  cloud infrastructure experience listed (AWS, GCP, etc.), no database
-  technologies mentioned.
-
-- Depth vs breadth: **Appropriate breadth for Staff+ but depth evidence
-  is mixed.** The technology list is reasonable (not bloated), but depth
-  indicators are sparse. "Functional reactive programming" mentioned but
-  no specifics on what problems it solved beyond "search architecture."
-
-- Depth indicators: Netflix build system improvement (40 seconds to
-  near-zero) is a strong technical achievement with clear metric.
-  WebGL/SVG data visualization at Meta shows technical range. Search
-  architecture across 15+ languages demonstrates complexity handling.
-  However, most role descriptions lack technical depth - what specific
-  architectural decisions were made?
-
-- Recency: **Concerning.** Most recent hands-on work is 2022.
-  2025-Present section describes methodology development and learning,
-  not shipping production systems. The 2023-2025 sabbatical is
-  explained, but that's 3+ years removed from production engineering.
+- Stack alignment: Strong JavaScript/React/Node ecosystem depth.
+  GraphQL, TypeScript, functional/reactive programming patterns align
+  well with modern UI stacks. Missing: testing frameworks, CI/CD
+  specifics, state management libraries beyond RxJs.
+- Depth vs breadth: Appropriate for Staff/Principal level -- shows
+  architectural thinking across domains (TVUI, AR/VR, data
+  visualization). Breadth across UI, build systems, i18n, and data
+  visualization is well-suited for cross-cutting work.
+- Depth indicators: "Defacto Search UI using functional reactive
+  programming and GraphQL-like data structures" shows technical
+  sophistication. WebGL/SVG data visualization work demonstrates
+  specialized depth. Build system optimization (40 seconds to near-zero)
+  shows systems-level thinking.
+- Recency: Concerning. Most recent production work ended March 2022.
+  AI/ML Integration skills listed but no production evidence. Nearly 4
+  years since active employment -- technologies have evolved
+  significantly.
 
 ### Impact Assessment
 
 - Tier 1-2 metrics:
-  - "100M+ users across 212 countries" - impressive scale context
-  - "40 seconds to near-zero" build times - strong performance metric
-  - "10% bandwidth savings" - quantified system improvement
-  - "80% of varied user needs" - outcome metric
-  - "200% company growth," "300% search improvement," "1000% e-commerce
-    revenue" - business outcomes, though dated (2000-2007)
+  - **Tier 2 (System performance):** "40 seconds to near-zero" rebuilds
+    -- strong
+  - **Tier 2 (Scale):** 100M+ users, 212 countries, infrastructure
+    maintained 3+ years through growth
+  - **Tier 1 (Business outcome):** 10% bandwidth savings at Yahoo; $750K
+    contract delivery at Halleck
+  - **Tier 1 (Revenue):** 300% search improvement, 1000% e-commerce
+    revenue increase (early career)
 
 - Tier 3-4 metrics:
-  - "Thousands of engineers" served - scale without clear outcome
-  - "3+ years maintained through exponential growth" - longevity but
-    what was the actual impact?
-  - "15+ languages" - breadth indicator without outcome
-  - Team sizes and mentorship mentioned but not quantified
+  - "Mentored team of 6-7 engineers; 2+ advanced to senior roles" --
+    solid Tier 3 evidence
+  - "Cross-functional solution addressing 80% of varied user needs" --
+    outcome-focused but not quantified in business terms
 
-- Scale/scope: Evidence of working at massive scale (Netflix global,
-  Meta AR/VR org). However, many bullets describe scope/context rather
-  than personal impact. "Internal platform serving thousands" - what did
-  YOU specifically build or improve?
+- Scale/scope: Evidence of operating at appropriate scale (Netflix
+  global infrastructure, Meta AR/VR). The "serving thousands of
+  scientists and engineers" framing shows internal tooling impact but
+  lacks external customer/business metrics from Meta tenure.
 
 ### Team Fit
 
-- Mentorship evidence: **Weak signal.** "Mentored engineers beginning
-  their senior-level journeys" at Meta is the only explicit mention -
-  vague and unquantified. "Team mentorship in architecture, functional
-  programming" at LogicHub - slightly better but still claims not
-  demonstrations. No evidence of engineers promoted, teams scaled, or
-  knowledge systems created.
-
-- Communication style: Resume is clearly written with some personality
-  ("The elegance comes from pattern recognition"). "Building, not
-  performing" positioning is refreshing. However, some language is
-  abstract ("cross-cutting problems that don't fit neatly into one
-  team's backlog") - would want to see concrete examples.
-
-- Collaboration signals: "Cross-functional solution" at Meta is
-  mentioned. International work at Yahoo suggests coordination across
-  regions. But most descriptions are individual-contributor focused.
-  Where's evidence of driving alignment, influencing without authority,
-  or unblocking teams?
+- Mentorship evidence: Direct evidence exists -- "2+ advanced to senior
+  roles" is the right kind of demonstration, not just claim. Team
+  mentorship mentioned at LogicHub (architecture, FP, reactive
+  extensions). However, mentorship evidence is limited to 2 of 7 roles.
+- Communication style: Resume writing is polished but leans toward
+  marketing language ("Builder who ships at scale", "Creative Principal
+  Engineer"). Some phrases feel like self-promotion rather than factual
+  statements. The conversational summary breaks convention.
+- Collaboration signals: "Cross-functional solution addressing 80% of
+  varied user needs across multiple teams" demonstrates cross-team work.
+  i18n standards work implies coordination across regions. Limited
+  explicit mention of collaboration patterns.
 
 ### Concerns
 
-1. **Recency gap is material.** Last production engineering was March
-   2022 - nearly 4 years ago. The AI methodology work is interesting but
-   unproven in production context. For a role requiring immediate
-   impact, this creates execution risk. Would need strong evidence in
-   screen that skills haven't atrophied.
+1. **4-year employment gap (Mar 2022 - present):** The brief mention
+   "rest and recharge" is insufficient. What specifically occupied this
+   time? Was there consulting, open source, or learning during this
+   period? This is the single largest concern and would dominate phone
+   screen discussion.
 
-2. **"Creative Solutions Engineer" title obscures fit.** Is this a Staff
-   Engineer? Principal? Architect? Consultant? The ambiguity makes it
-   harder to assess level match. Combined with contract-to-hire
-   positioning, this creates uncertainty about what engagement model is
-   actually being sought.
+2. **AI skills unsubstantiated:** The "AI/ML Integration" expertise
+   section lists impressive-sounding skills (Multi-Agent Orchestration,
+   Model Context Protocol, Claude Code Extension Development) but zero
+   production evidence anywhere in experience section. These appear to
+   be theoretical or hobbyist-level currently.
 
-3. **AI claims lack production validation.** "Spec-driven methodology
-   that AI agents consume to generate predictable implementations" is
-   compelling theory but no evidence it's been tested at scale, shipped
-   to production, or delivered business outcomes. "Independently
-   discovered this approach before GitHub validated it" - interesting
-   timing claim but still theoretical.
+3. **Recency of production experience:** The technology landscape has
+   shifted dramatically since 2022. React ecosystem, build tooling, and
+   especially AI integration patterns have evolved. Evidence of staying
+   current is missing.
 
-4. **Mentorship evidence is thin for Principal level.** Principal-level
-   expectation is team multiplication. Resume describes mentoring but
-   provides no scale, outcomes, or evidence. Who got promoted? What
-   teams were built? What processes were established?
+4. **Non-standard title and framing:** "Creative Principal Engineer" is
+   not a recognized industry title. It may cause confusion in recruiter
+   screens and ATS systems. The design-forward positioning may signal
+   misalignment with pure engineering roles.
 
-5. **Contract work positioning creates commitment questions.** Targeting
-   "contract-to-hire" and "Long-term contracts (3-6 months)" is
-   transparent but may trigger bias about commitment to the role.
-   Several past roles are 1-2 years, which is acceptable but combined
-   with contract framing requires explanation.
-
-### Bias Check
-
-- **Pedigree shortcuts**: I may be giving too much benefit of doubt
-  based on Netflix/Meta brands. The actual impact descriptions at these
-  companies are relatively thin for principal-level roles. Would I rate
-  this the same with unknown company names? Likely 5/10 instead of 6/10.
-
-- **Recency bias**: Actually working in the opposite direction here - I
-  may be over-penalizing the 2023-2025 gap. The candidate explains it as
-  intentional sabbatical with productive activity. Many strong engineers
-  take breaks.
-
-- **Similar-to-me preference**: The functional programming and systems
-  thinking language resonates with my background, which may be creating
-  positive bias.
-
-### Questions for Screen
-
-1. Walk me through one specific architectural decision at Meta that you
-   owned. What were the tradeoffs? What would you do differently?
-
-2. You mention spec-driven AI development methodology. Can you show me
-   an example? What's the input, what's the output, and how do you
-   validate the result?
-
-3. Tell me about an engineer you mentored at Meta or Netflix. Where did
-   they start, where did they end up, and what was your specific role in
-   their growth?
-
-4. You've been away from production systems for nearly 4 years. What
-   have you done to stay current beyond methodology development? Ship
-   anything recently?
-
-5. What does "Creative Solutions Engineer" mean to you? Are you looking
-   for a Staff IC role, architecture role, or consulting engagement?
-
-6. The resume mentions cross-cutting problems. Give me an example of a
-   cross-team problem you solved. Who were the stakeholders? How did you
-   drive alignment?
-
-### Verdict
-
-**Lean yes for phone screen, but with significant reservations.**
-
-Move to phone screen based on: Strong brand experience (Netflix, Meta),
-evidence of operating at scale, clear technical depth in frontend/UI
-domain, interesting AI methodology angle that's timely.
-
-Reservations requiring clarification: Recency gap must be addressed with
-evidence of current capability. Mentorship claims need substantiation.
-AI methodology needs production examples or clear articulation of how it
-transfers. Level/engagement model needs clarification.
-
-Would not fast-track to technical interview. Would compare against other
-candidates in pipeline. If pipeline is strong, this becomes a
-maybe-later. If pipeline is thin for senior frontend/architecture roles,
-worth exploring.
-
-**Probability of advancing past phone screen: 50%.** Depends entirely on
-how well the candidate addresses recency and AI methodology questions.
-
----
-
-## Strategic Leader Review (Jordan) {#strategic-leader-2026-01-05}
-
-**Date:** 2026-01-05 **Resume:** hybrid **Score:** 6.5/10
-
-### 30-Second Scan
-
-Pattern recognition on initial scan: Immediate signal of systems
-thinker. "Creative Solutions Engineer" is nonstandard but the summary
-clarifies quickly. Netflix global expansion (1 to 212 countries) is
-builder evidence I look for. The 27+ years is notable but framed around
-AI amplification, not tenure bragging. Career gap disclosed
-transparently - that's confidence. Pass initial filter; worth deeper
-read.
-
-### Builder vs Operator Assessment
-
-- Builder evidence: "Build system: developer rebuilds from 40 seconds to
-  near-zero," "Search architecture using functional reactive
-  programming," "Cross-functional solution addressing 80% of varied user
-  needs," "Infrastructure maintained 3+ years through exponential
-  growth," spec-driven methodology "independently discovered," Netflix
-  expansion is quintessential zero-to-one-to-N narrative
-- Operator signals: "UI tooling serving engineers" (Meta Infra),
-  "Internal platform serving" - these read as maintenance/operation of
-  existing systems; "Mentored engineers" without organizational building
-  context
-- Overall assessment: **Builder/Hybrid** - Strong builder evidence from
-  Netflix era (2010-2016), but Meta experience (2018-2022) reads more
-  operational. The gap period and current AI work suggest builder
-  instincts remain active.
-
-### Strategic Signals
-
-- Big picture thinking: **Present but buried.** "I take on complex,
-  cross-cutting problems that don't fit neatly into one team's
-  backlog" - this is exactly what I need articulated, but it's in the
-  summary, not demonstrated through the experience bullets. The Netflix
-  build system saving "millions in productivity" shows understanding of
-  org-level impact.
-- Cross-functional work: **Strong evidence.** "Cross-functional solution
-  addressing 80% of varied user needs across multiple teams" at Meta.
-  Netflix international search across 40 markets and 15+ languages.
-  SanDisk work spanning 5 regions, 30+ languages. This person navigates
-  organizational complexity.
-- Outcome orientation: **Mixed.** Netflix and Yahoo quantify well (100M+
-  users, 212 countries, 10% bandwidth savings). Meta bullets lack
-  quantification - "serving thousands" is vague. The early career
-  numbers (200% company growth, 300% search improvement, 1000%
-  e-commerce revenue increase) are compelling but ancient.
-- 12-18 month fit: **Questionable.** The spec-driven AI methodology is
-  interesting but unproven commercially. For a growth-stage company, I'd
-  want to see evidence of team leadership, not just technical
-  contribution. This reads as Staff IC, not Director.
-
-### Communication Assessment
-
-- Clarity: **Strong.** Concise sentences, no jargon bloat.
-  "Understanding how parts connect, where bottlenecks hide, and what
-  simplicity looks like on the other side of complexity" - this person
-  thinks clearly.
-- Executive-ready: **Yes, with caveats.** Could forward to board member
-  for technical advisory discussions. Not confident forwarding for
-  VP-level leadership role without more organizational leadership
-  evidence.
-- Story coherence: **Mostly coherent.** Design to engineering to
-  principal makes sense. The 2023-2025 gap is handled well ("Reset,
-  recharge, rediscover"). The AI pivot is framed as evolution, not
-  desperation. However, the trajectory feels like it peaks at Meta then
-  plateaus.
-
-### Organizational Fit
-
-- Level alignment: **Principal IC / Staff+ but not Director.**
-  Experience supports technical leadership roles. No evidence of
-  building organizations - built systems, not teams. For strategic roles
-  requiring organizational leadership, this is a gap.
-- Domain relevance: **High for developer tools, DX, platform work.** The
-  build system and tooling experience is directly applicable.
-  AI-augmented development methodology could be valuable if it's real.
-  Less relevant for product engineering leadership.
-- Culture signals: **Strong IC culture, unclear on executive culture.**
-  "Autonomy on approach" and "define what, not how" in the positioning
-  suggests someone who executes independently. Good for strategic IC
-  work. May struggle with consensus-building and organizational politics
-  (though notes those as deal-breakers, which is honest).
-
-### Concerns
-
-- **No evidence of building organizations.** Built systems, tools,
-  platforms - but where are the teams? "Mentored engineers" appears
-  once. For a strategic hire at a growth-stage company, I need people
-  who've scaled organizations, not just technology.
-- **Most compelling evidence is 10+ years old.** Netflix (2010-2016)
-  shows the builder. Meta (2018-2022) shows an operator. Current AI work
-  is unvalidated. The trajectory appears downward or lateral, not
-  upward.
-- **Contract-to-hire limitation.** The author profile states "autonomy
-  on approach" and "clear problem ownership and decision authority" as
-  non-negotiables. Strategic leadership roles at growth-stage companies
-  require flexibility and collaborative decision-making. This may signal
-  a mismatch.
-- **"Creative Solutions Engineer" title may confuse routing.**
-  Non-standard title could get this resume filed incorrectly. At a
-  glance, unclear if this is an architect, staff engineer, or
-  consultant.
+5. **Recent roles lack business outcome metrics:** Meta section shows
+   scale but no business impact. What did the AR/VR tools enable? What
+   was the cost savings from improved tooling? Tier 1 metrics are
+   concentrated in earlier career (2007-2009).
 
 ### Bias Check
 
 Did any of these biases potentially influence your assessment?
 
-- **Experience-performance disconnect:** Possibly. I'm weighting the
-  Netflix era heavily because it has the clearest builder evidence. The
-  27 years could cut either way.
-- **Pedigree over principles:** Checking myself here. Netflix and Meta
-  logos carry weight, but I'm trying to evaluate what was actually
-  built, not just where. The earlier agency/startup work shows hustle
-  that big-company work often lacks.
-- **Individual contributor discount:** Yes, this is active. I'm
-  struggling to see past the IC framing to potential leadership
-  capability. The author may have led without titled authority - the
-  resume doesn't make this visible.
+- **Pedigree shortcuts:** Yes, Meta and Netflix names positively
+  influenced initial scan. However, I then scrutinized the actual
+  achievements rather than assuming competence. The pedigree bought
+  attention but evidence was evaluated on merit.
+- **Recency bias:** Possibly working against candidate -- the 4-year gap
+  is weighing heavily. However, this is a legitimate operational concern
+  about skills currency, not pure recency bias. Would ask the same
+  questions of any candidate with similar gap.
+- **Similar-to-me preference:** Not applicable; evaluating based on
+  stated criteria.
 
-### Routing Decision
+### Questions for Screen
 
-Would forward to Head of Platform Engineering or VP of Developer
-Experience with note: "Strong technical IC with systems thinking and DX
-expertise. Netflix build tooling work is notable. Consider for
-Staff/Principal platform role or strategic technical consulting
-engagement. Not a fit for people leadership roles without further
-assessment."
+1. Walk me through the last 4 years. What have you been building,
+   learning, or working on since leaving Meta?
 
-Would not take meeting personally unless specifically looking for a
-fractional technical advisor for AI-augmented development methodology.
+2. You mention AI-augmented development and list specific technologies
+   (MCP, multi-agent orchestration). Can you describe a real project
+   where you applied these -- what you built, what the outcome was?
+
+3. At Meta AR/VR, you mention the cross-functional solution addressed
+   80% of user needs. What was the remaining 20%, and why couldn't your
+   solution address it? What trade-offs did you make?
+
+4. The build system improvement at Netflix (40s to near-zero) is
+   impressive. What was the architectural approach, and how did you
+   measure "near-zero"?
+
+5. You've titled yourself "Creative Principal Engineer" -- what does
+   "Creative" mean to you in an engineering context, and why is it part
+   of your professional identity?
+
+6. Given the fast evolution of frontend tooling since 2022, how have you
+   stayed current? What's changed in your approach?
 
 ### Verdict
 
-**Delegate to HM.** Strong Staff+ IC with legitimate builder credentials
-in infrastructure and developer tools. The gap between "what this resume
-shows" and "what strategic leadership requires" is organizational
-leadership evidence. Worth pursuing for the right role, but that role is
-technical contributor with strategic scope, not organizational leader.
+**Lean no for immediate technical interview. Yes for phone screen to
+address gap questions.**
+
+The candidate has genuine depth and impressive scale of impact at
+Netflix and Meta. The mentorship evidence is real. The technical skills
+align with modern stacks on paper.
+
+However, the 4-year gap without explanation beyond "rest and recharge"
+is a significant concern for a role requiring immediate contribution.
+The AI skills listed are unsubstantiated by any production work. For a
+Staff/Principal hire who needs to "hit the ground running," I need
+confidence in current capabilities, not just historical achievements.
+
+If the phone screen reveals substantive activity during the gap
+(consulting, open source, deep AI experimentation with demonstrable
+outputs), this could move to strong yes. The foundation is excellent --
+the question is whether it's been maintained or degraded.
+
+**Decision:** Phone screen to explore gap and validate AI claims. Would
+not fast-track to technical interview without satisfactory answers.
+
+---
+
+## Strategic Leader Review (Jordan) {#strategic-leader-2026-01-05}
+
+**Date:** 2026-01-05 **Resume:** hybrid **Score:** 7/10
+
+### 30-Second Scan
+
+Strong opening. "Builder who ships at scale" is exactly the language I
+look for. The summary hits cross-cutting problems, AI tooling, and
+systems thinking in three sentences. Netflix global expansion (212
+countries) catches attention immediately. Meta AR/VR serving "thousands
+of scientists and engineers" suggests scope.
+
+Pass on initial filter. Worth deeper review.
+
+### Builder vs Operator Assessment
+
+- Builder evidence: "TVUI build system: 40 seconds to near-zero
+  rebuilds"; "Cross-functional solution addressing 80% of varied user
+  needs"; "Infrastructure maintained 3+ years through exponential
+  growth"; "i18n standards enabling regional expansion without UI
+  rework"; "200% company growth"; "$750K contract"; "300% search
+  improvement"; "1000% e-commerce revenue increase"
+- Operator signals: "Mentored team of 6-7 engineers" (could be either);
+  "UI tooling serving engineers" (maintained or built unclear)
+- Overall assessment: **Builder**. Clear zero-to-one work. Created
+  systems that scaled. The Netflix build system and cross-functional
+  Meta tool are builder artifacts. Early career shows entrepreneurial
+  building (Halleck contract, BIG Design growth).
+
+### Strategic Signals
+
+- Big picture thinking: Yes. "Systems thinking" is explicit.
+  "Understanding how parts connect and where bottlenecks hide"
+  demonstrates architectural mindset. The progression from design to
+  engineering to principal work shows layered strategic development.
+- Cross-functional work: Strong. Meta AR/VR work explicitly
+  "cross-functional solution" serving "multiple teams." Netflix work
+  spans "TVs, consoles, and set-top boxes" across "212 countries" and
+  "15+ languages." This is not siloed thinking.
+- Outcome orientation: Good but uneven. Netflix outcomes are quantified
+  (100M+ users, 40 seconds to near-zero, millions in developer hours
+  saved). Meta outcomes are scoped but not quantified beyond user
+  population. Earlier career has strong numbers (200%, 300%, 1000%).
+  Some bullets read as features rather than outcomes.
+- 12-18 month fit: Appropriate. The "Creative Principal Engineer" title
+  and contract-to-hire positioning align with growth-stage needs. Not
+  too junior (would add value immediately), not too senior (not seeking
+  VP/CTO title).
+
+### Communication Assessment
+
+- Clarity: High. Writing is crisp. "I help teams ship faster" is direct.
+  Avoids jargon while demonstrating technical credibility. The "rest,
+  reset, and recharge" framing is honest and confident.
+- Executive-ready: Yes. Could forward this to a board member. The
+  language is accessible without being dumbed down. Business impact is
+  foregrounded.
+- Story coherence: Strong. Design foundation to engineering mastery to
+  principal leadership to AI-augmented evolution is a coherent arc. The
+  summary explicitly maps this trajectory.
+
+### Organizational Fit
+
+- Level alignment: Yes. Principal-level work at Meta and Netflix. Has
+  led without needing the title. Staff+-adjacent without the formal
+  ladder.
+- Domain relevance: Strong for developer tools, productivity, AI/ML
+  tooling. The Netflix build system and DX focus directly align with
+  developer experience challenges. Less clear fit for pure product
+  companies.
+- Culture signals: Positive. "Mentored team... 2+ advanced to senior
+  roles" shows investment in people. "Teaches while building" suggests
+  collaborative style. The break for "rest, reset, and recharge" signals
+  self-awareness.
+
+### Concerns
+
+- **Gap narrative requires in-person evaluation.** The break from
+  2022-2026 is acknowledged but unexplained in detail. "Rest, reset, and
+  recharge" is refreshingly honest, but four years is significant. What
+  was the learning during this period? The AI-augmented development
+  positioning suggests productive use of time, but this needs
+  conversation.
+- **Meta tenure ended at Principal, not Staff/Distinguished.** Two years
+  in Infra after two years in AR/VR. Natural question: why lateral move
+  within Meta rather than promotion? Not a red flag, but worth
+  understanding the story.
+- **Quantification gaps in recent work.** Netflix outcomes are concrete.
+  Meta outcomes are scoped ("thousands," "80%") but not
+  business-impacted. What did the AR/VR tools enable that wouldn't have
+  happened otherwise?
+
+### Bias Check
+
+Did any of these biases potentially influence your assessment?
+
+- Experience-performance disconnect (over-weighting tenure): Possibly.
+  25+ years of experience could trigger this bias. However, the work
+  quality demonstrated (Netflix scale, Meta complexity) provides
+  evidence beyond mere tenure. Checked.
+- Pedigree over principles: Risk present. Netflix and Meta are
+  impressive names. Consciously evaluated builder evidence rather than
+  employer prestige. The early career work (BIG Design, Halleck) shows
+  building capability outside big tech.
+- Individual contributor discount: Not applicable. This is an IC resume,
+  but the cross-functional influence and mentorship evidence
+  demonstrates leadership without title. The "IC who leads" archetype
+  fits.
+
+### Routing Decision
+
+Would send to VP of Engineering with endorsement: "Strong builder with
+systems thinking at scale. Netflix/Meta background but clearly not an
+operator - created infrastructure that lasted. Gap needs conversation
+but AI positioning is compelling. Worth 30 minutes."
+
+For developer tools or DX-focused roles, would route with higher
+confidence. For pure product engineering, would want to understand
+product intuition beyond tooling.
+
+### Verdict
+
+**Delegate with endorsement.** Take meeting if actively hiring for
+cross-functional principal or DX leadership. Builder identity is clear,
+strategic thinking is evident, scale is proven. The gap and Meta
+trajectory need conversation, but this is a candidate worth pursuing
+rather than passing on.

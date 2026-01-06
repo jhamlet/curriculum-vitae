@@ -81,9 +81,10 @@ and team enablement. Strengthens teams — teaches while building.
 - UI tooling serving engineers across Meta's infrastructure organization
 - Mentored team of 6-7 engineers; 2+ advanced to senior roles
 
-**AR/VR Core Tech** (Aug 2018 - Dec 2020)
+**AR/VR Core Tech (AI Data Systems)** (Aug 2018 - Dec 2020)
 
-- AR/VR internal tools serving **thousands of scientists and engineers**
+- Designed and implemented AR/VR internal tools serving **thousands of
+  scientists and engineers**
 - Cross-functional solution addressing **80% of varied user needs**
   across multiple teams
 - Complex data visualization using SVG and WebGL for data scientists and
@@ -107,8 +108,8 @@ TVUI Discovery Experience
 
 - Streaming experience for **100M+ users** across **212 countries** on
   TVs, consoles, and set-top boxes
-- TVUI build system: **40 seconds to near-zero** rebuilds — saved
-  millions in developer hours
+- Took the initiative to craft the TVUI build system: **40 seconds to
+  near-zero** rebuilds — saved millions in developer hours
 - Infrastructure maintained **3+ years** through exponential growth in
   device coverage
 - Defacto Search UI using functional reactive programming and
