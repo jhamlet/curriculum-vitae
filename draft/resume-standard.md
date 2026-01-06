@@ -1,6 +1,41 @@
+---
+title: "Resume - Standard Variant"
+variant: standard
+version: 1.0.0
+status: draft
+last_updated: 2026-01-05
+
+base: hybrid
+
+target:
+  industry:
+    - developer-tools
+    - ai-ml
+    - productivity
+  company_stage: Series A-B
+  role: Creative Solutions Engineer
+  engagement: full-time
+
+focus:
+  - ats-optimization
+  - traditional-format
+  - keyword-rich
+
+reviews:
+  - persona: startup-founder
+    date: null
+    score: null
+  - persona: engineering-hm
+    date: null
+    score: null
+  - persona: strategic-leader
+    date: null
+    score: null
+---
+
 # Jerry Hamlet
 
-## Creative Solutions Engineer
+**Creative Solutions Engineer**
 
 [jerry@hamletzone.com](mailto:jerry@hamletzone.com) |
 [+1.510.432.4317](tel:+15104324317) |
@@ -12,45 +47,25 @@
 ## Summary
 
 Creative Solutions Engineer specializing in AI-augmented architecture
-and spec-driven development. 27+ years bridging design and engineering —
-now amplified by AI tooling that makes experience compound faster.
-
-I take on complex, cross-cutting problems that don't fit neatly into one
-team's backlog. The elegance comes from pattern recognition across
-domains.
+and spec-driven development. Taking on complex, cross-cutting problems
+that don't fit neatly into one team's backlog. Design-informed
+engineering with pattern recognition across domains.
 
 ---
 
-## Recent Focus
+## Skills
 
-**2025-Present**: Deep dive into AI-augmented development. Developing
-spec-driven methodology: structured requirements that AI agents consume
-to generate predictable implementations. Independently discovered this
-approach before GitHub validated it with their Spec Kit release.
+**Core:** AI-Augmented Development, Systems Architecture, Design
+Systems, Spec-Driven Development, Developer Experience, Cross-Platform
+Solutions
 
-**2023-2025**: Break after two decades of high-intensity work in Silicon
-Valley. Reset, recharge, rediscover what makes the work interesting.
+**Technical:** JavaScript, React, GraphQL, Node.js, RxJs, Ramda,
+Functional Programming, Reactive Programming, SVG, WebGL, TypeScript
 
-27 years of pattern recognition now amplified by AI tooling — the
-experience makes the AI more effective, not the other way around.
+**AI/ML:** Multi-Agent Orchestration, Model Context Protocol (MCP),
+Prompt Engineering, AI Workflow Design
 
----
-
-## Core Capabilities
-
-**AI-Augmented Development** -- Orchestrating multi-agent workflows for
-complex tasks. Spec-driven development that turns requirements into
-working systems.
-
-**Systems Architecture** -- Understanding how parts connect, where
-bottlenecks hide, and what simplicity looks like on the other side of
-complexity.
-
-**Developer Experience** -- Building tools and processes that make teams
-more effective. Build systems, automation, productivity multipliers.
-
-**Cross-Platform Solutions** -- Single architectures serving diverse
-environments: TVs, consoles, mobile, web, constrained devices.
+**Design:** Information Architecture, Visual Design, Brand Systems
 
 ---
 
@@ -117,27 +132,3 @@ search improvement**. **1000% e-commerce revenue increase**.
 
 **Freelance & Agency** (1997-2004): Web development, graphic design,
 Flash animation, print production.
-
----
-
-## Expertise
-
-### Core
-
-AI-Augmented Development | Systems Architecture | Design Systems |
-Spec-Driven Development | Developer Experience
-
-### Technical
-
-JavaScript | React | GraphQL | Node.js | RxJs | Ramda | Functional
-Programming | Reactive Programming | TypeScript
-
-### AI/ML Integration
-
-Multi-Agent Orchestration | Model Context Protocol (MCP) | Prompt
-Engineering | AI Workflow Design
-
-### Design Foundation
-
-UI/UX | Information Architecture | Visual Design | Branding | Marketing
-| Pattern Recognition

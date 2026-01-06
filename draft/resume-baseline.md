@@ -1,3 +1,37 @@
+---
+title: "Resume - Baseline Variant"
+variant: baseline
+version: 1.0.0
+status: draft
+last_updated: 2026-01-05
+
+base: hybrid
+
+target:
+  industry:
+    - developer-tools
+    - ai-ml
+    - productivity
+  company_stage: Series A-B
+  role: Creative Solutions Engineer
+  engagement: contract-to-hire
+
+focus:
+  - foundation
+  - core-experience
+
+reviews:
+  - persona: startup-founder
+    date: null
+    score: null
+  - persona: engineering-hm
+    date: null
+    score: null
+  - persona: strategic-leader
+    date: null
+    score: null
+---
+
 # Jerry Hamlet _Senior UI Engineer_
 
 - [jerry@hamletzone.com](mailto:jerry@hamletzone.com)
