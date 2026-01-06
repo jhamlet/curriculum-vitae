@@ -1,6 +1,7 @@
 # Career Positioning Questionnaire
 
-This questionnaire will inform market research to position you as a solution-finder leveraging AI/agentic coding as a work amplifier.
+This questionnaire will inform market research to position you as a
+solution-finder leveraging AI/agentic coding as a work amplifier.
 
 ---
 
@@ -8,21 +9,28 @@ This questionnaire will inform market research to position you as a solution-fin
 
 ### 1.1 How do you want to be perceived?
 
-> _Complete this sentence: "Jerry Hamlet is the person you call when you need..."_
+> _Complete this sentence: "Jerry Hamlet is the person you call when you
+> need..."_
 
-**Your answer:** "...to figure out how to do something, or how to do something more efficiently and elegantly."
+**Your answer:** "...to figure out how to do something, or how to do
+something more efficiently and elegantly."
 
 ### 1.2 What problems do you want to solve?
 
-> _Not "what technologies do you want to use" but "what business/human problems excite you?"_
+> _Not "what technologies do you want to use" but "what business/human
+> problems excite you?"_
 
-**Your answer:** Untangling complexity into simplicity - creating elegant workflows to enhance the speed of innovation.
+**Your answer:** Untangling complexity into simplicity - creating
+elegant workflows to enhance the speed of innovation.
 
 ### 1.3 What's your unique angle?
 
-> _What combination of skills/experience/perspective makes you different from others offering similar services?_
+> _What combination of skills/experience/perspective makes you different
+> from others offering similar services?_
 
-**Your answer:** Pattern recognition across domains - AI empowered engineering systems design for results - finding elegant paths through complex problems.
+**Your answer:** Pattern recognition across domains - AI empowered
+engineering systems design for results - finding elegant paths through
+complex problems.
 
 ---
 
@@ -32,36 +40,49 @@ This questionnaire will inform market research to position you as a solution-fin
 
 > _Be specific: tools, patterns, types of tasks you augment with AI_
 
-**Your answer:** AI agents for development, exploration, research, and automation. Building multi-agent workflows for complex tasks.
+**Your answer:** AI agents for development, exploration, research, and
+automation. Building multi-agent workflows for complex tasks.
 
 ### 2.2 What multiplier effect do you see?
 
-> _Example: "I can do X in Y time that would take Z without AI" or "I can now tackle problems I couldn't before"_
+> _Example: "I can do X in Y time that would take Z without AI" or "I
+> can now tackle problems I couldn't before"_
 
-**Your answer:** Not just speed - scope leverage. AI enables focus on the whole rather than individual parts. One person can orchestrate multiple large projects, or amplify the depth and breadth of a single project. The multiplier is in what you can attempt, not just how fast. _(REVISIT)_
+**Your answer:** Not just speed - scope leverage. AI enables focus on
+the whole rather than individual parts. One person can orchestrate
+multiple large projects, or amplify the depth and breadth of a single
+project. The multiplier is in what you can attempt, not just how fast.
+_(REVISIT)_
 
 ### 2.3 What's your philosophy on AI-augmented work?
 
-> _How do you think about human+AI collaboration? What stays human? What gets amplified?_
+> _How do you think about human+AI collaboration? What stays human? What
+> gets amplified?_
 
-**Your answer:** Collaboration guided by experience and trained intuition; AI amplifies speed of execution and the scope of what's possible.
+**Your answer:** Collaboration guided by experience and trained
+intuition; AI amplifies speed of execution and the scope of what's
+possible.
 
 ### 2.4 What agentic/AI capabilities are you developing?
 
-> _MCP servers, custom agents, prompt engineering, fine-tuning, RAG systems, etc._
+> _MCP servers, custom agents, prompt engineering, fine-tuning, RAG
+> systems, etc._
 
-**Your answer:** Multi-agent orchestration, prompt engineering, and custom agent systems. Building frameworks for coordinating AI agents on complex, multi-step tasks.
+**Your answer:** Multi-agent orchestration, prompt engineering, and
+custom agent systems. Building frameworks for coordinating AI agents on
+complex, multi-step tasks.
 
 > I am at the beginning of my AI and agentic coding experience journey.
-> Although, from what I can see, my beginnings are already ahead of the curve. I
-> found out I was doing things in the first week of me exploring the use of AI
-> assisted coding, that I others have been working on over the last year and a
-> half (as of mid Nov. 2025 -- I started with Spec-driven development, where the
-> wider community had just "discovered" it).
-> So, I do not want to lead with my AI experience (as I have no provable
-> experience) -- yet, I'm already ahead of the curve... but, I am the only one
-> that can say that -- I guess, I will have to be a bit arrogant in asserting my
-> capabilities (is this "imposter syndrome"?)
+> Although, from what I can see, my beginnings are already ahead of the
+> curve. I found out I was doing things in the first week of me
+> exploring the use of AI assisted coding, that I others have been
+> working on over the last year and a half (as of mid Nov. 2025 -- I
+> started with Spec-driven development, where the wider community had
+> just "discovered" it). So, I do not want to lead with my AI experience
+> (as I have no provable experience) -- yet, I'm already ahead of the
+> curve... but, I am the only one that can say that -- I guess, I will
+> have to be a bit arrogant in asserting my capabilities (is this
+> "imposter syndrome"?)
 
 ---
 
@@ -86,7 +107,8 @@ This questionnaire will inform market research to position you as a solution-fin
 - [x] Collaborator (work alongside others as peers)
 - [x] Mentor/force-multiplier (make others more effective)
 
-**Note:** Context-dependent - flexible across these roles depending on the engagement.
+**Note:** Context-dependent - flexible across these roles depending on
+the engagement.
 
 ### 3.3 Company stage preference
 
@@ -101,7 +123,8 @@ This questionnaire will inform market research to position you as a solution-fin
 
 > _What's your preference and constraints?_
 
-**Your answer:** Remote-first with occasional in-person as needed. No geographic constraints - open to working with anyone, anywhere.
+**Your answer:** Remote-first with occasional in-person as needed. No
+geographic constraints - open to working with anyone, anywhere.
 
 ---
 
@@ -111,19 +134,29 @@ This questionnaire will inform market research to position you as a solution-fin
 
 > _Be specific about tasks, roles, or contexts you want to avoid_
 
-**Your answer:** Maintenance work on legacy systems. Large team politics and consensus-building theater. Micromanagement - being told how, not just what. Slow bureaucracy that impedes progress. Uninspiring work that doesn't challenge.
+**Your answer:** Maintenance work on legacy systems. Large team politics
+and consensus-building theater. Micromanagement - being told how, not
+just what. Slow bureaucracy that impedes progress. Uninspiring work that
+doesn't challenge.
 
 ### 4.2 What from your past experience do you want to KEEP?
 
-> _Even if pivoting, some skills/experiences remain valuable. Which ones?_
+> _Even if pivoting, some skills/experiences remain valuable. Which
+> ones?_
 
-**Your answer:** Systems thinking - seeing how parts connect. Developer tooling and automation expertise. Performance optimization instincts. Pattern recognition from design background. Mentoring and teaching ability.
+**Your answer:** Systems thinking - seeing how parts connect. Developer
+tooling and automation expertise. Performance optimization instincts.
+Pattern recognition from design background. Mentoring and teaching
+ability.
 
 ### 4.3 What burned you out or frustrated you in past roles?
 
 > _Understanding this helps position you for sustainable work_
 
-**Your answer:** Underutilization - not being challenged or using full capabilities. Lack of autonomy. Repetitive work. Poor leadership that defines 'how' without clarifying 'why' and 'what' first. Inflexibility that blocks better approaches.
+**Your answer:** Underutilization - not being challenged or using full
+capabilities. Lack of autonomy. Repetitive work. Poor leadership that
+defines 'how' without clarifying 'why' and 'what' first. Inflexibility
+that blocks better approaches.
 
 ---
 
@@ -131,27 +164,39 @@ This questionnaire will inform market research to position you as a solution-fin
 
 ### 5.1 Describe your ideal project
 
-> _If you could design the perfect 3-month engagement, what would it look like?_
+> _If you could design the perfect 3-month engagement, what would it
+> look like?_
 
-**Your answer:** System redesign or workflow improvement for a lean team with a clear problem owner open to AI-augmented approaches. Three months to deliver measurable improvement, a working system, and enhanced team capability. Not greenfield (unless my own project).
+**Your answer:** System redesign or workflow improvement for a lean team
+with a clear problem owner open to AI-augmented approaches. Three months
+to deliver measurable improvement, a working system, and enhanced team
+capability. Not greenfield (unless my own project).
 
 ### 5.2 What industries or domains intrigue you?
 
-> _Even if you said "general tech" - are there areas you'd lean toward if equal pay?_
+> _Even if you said "general tech" - are there areas you'd lean toward
+> if equal pay?_
 
-**Your answer:** Tools that amplify human capability - developer tools, creative tools, productivity/workflow tools, AI/ML tooling. Avoid: crypto/Web3, adtech, defense/weapons.
+**Your answer:** Tools that amplify human capability - developer tools,
+creative tools, productivity/workflow tools, AI/ML tooling. Avoid:
+crypto/Web3, adtech, defense/weapons.
 
 ### 5.3 What emerging technologies/trends do you want to work with?
 
 > _Beyond AI - what else interests you?_
 
-**Your answer:** Agentic systems and orchestration. Local-first software. Edge computing. Data pipelines.
+**Your answer:** Agentic systems and orchestration. Local-first
+software. Edge computing. Data pipelines.
 
 ### 5.4 What does success look like in 2 years?
 
 > _Financial, professional, lifestyle - paint the picture_
 
-**Your answer:** Professionally: Recognized for AI-augmented problem-solving. Steady client flow without constant hunting. Own product or business generating revenue. Lifestyle: Work-life balance with schedule control. Location independence. Financial security. Working on meaningful things.
+**Your answer:** Professionally: Recognized for AI-augmented
+problem-solving. Steady client flow without constant hunting. Own
+product or business generating revenue. Lifestyle: Work-life balance
+with schedule control. Location independence. Financial security.
+Working on meaningful things.
 
 ---
 
@@ -172,7 +217,9 @@ This questionnaire will inform market research to position you as a solution-fin
 
 > _Take a shot at how you'd describe yourself in 1-2 sentences_
 
-**Your answer:** I help teams ship faster by combining deep experience with modern AI tooling - taking on complex, cross-cutting problems that don't fit neatly into one team's backlog.
+**Your answer:** I help teams ship faster by combining deep experience
+with modern AI tooling - taking on complex, cross-cutting problems that
+don't fit neatly into one team's backlog.
 
 ---
 
@@ -200,7 +247,8 @@ This questionnaire will inform market research to position you as a solution-fin
 
 > _Any limitations on who you can work with?_
 
-**Your answer:** No constraints. Truly flexible - async-first, any timezone works.
+**Your answer:** No constraints. Truly flexible - async-first, any
+timezone works.
 
 ---
 
@@ -210,24 +258,31 @@ This questionnaire will inform market research to position you as a solution-fin
 
 > _Projects, tools built, productivity gains achieved_
 
-**Your answer:** Custom agent framework development. Still building portfolio of AI-augmented work evidence - this is a gap to address.
+**Your answer:** Custom agent framework development. Still building
+portfolio of AI-augmented work evidence - this is a gap to address.
 
 ### 8.2 What can you show vs. tell?
 
-> _Portfolio pieces, demos, open source, writing that supports your new positioning_
+> _Portfolio pieces, demos, open source, writing that supports your new
+> positioning_
 
-**Your answer:** GitHub repos (existing). Previous work examples from Netflix, Meta. Need to create new portfolio pieces that demonstrate AI-augmented approach - writing, demos, case studies.
+**Your answer:** GitHub repos (existing). Previous work examples from
+Netflix, Meta. Need to create new portfolio pieces that demonstrate
+AI-augmented approach - writing, demos, case studies.
 
 ### 8.3 What testimonials or references support this pivot?
 
 > _People who've seen you work this way_
 
-**Your answer:** Past colleagues and managers who can speak to problem-solving approach, systems thinking, and force-multiplier impact. May need to cultivate references specifically for AI-augmented positioning.
+**Your answer:** Past colleagues and managers who can speak to
+problem-solving approach, systems thinking, and force-multiplier impact.
+May need to cultivate references specifically for AI-augmented
+positioning.
 
-> I should have no problem curating a portfolio of past work. Wether in systems,
-> engineering, or even past design work.
-> The issue is the AI assisted development of workflows (I just started doing
-> this in mid-November 2025)
+> I should have no problem curating a portfolio of past work. Wether in
+> systems, engineering, or even past design work. The issue is the AI
+> assisted development of workflows (I just started doing this in
+> mid-November 2025)
 
 ---
 

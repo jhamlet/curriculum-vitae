@@ -1,27 +1,39 @@
 # Resume and Contracting Website Strategy Guide
 
-**Profile:** Jerry Hamlet, Creative Solutions Architect
-**Prepared:** December 6, 2025
-**Target Launch:** Q1-Q2 2026
+**Profile:** Jerry Hamlet, Creative Solutions Architect **Prepared:**
+December 6, 2025 **Target Launch:** Q1-Q2 2026
 
 ---
 
 ## 1. Executive Summary
 
-This strategy guide outlines a comprehensive approach to modernizing Jerry Hamlet's professional presence through two interconnected projects: a refreshed resume/CV and a contracting services website. The strategy leverages 27+ years of experience, FAANG credentials (Meta AR/VR, Netflix TVUI), and the rare combination of deep technical expertise with design/branding background.
+This strategy guide outlines a comprehensive approach to modernizing
+Jerry Hamlet's professional presence through two interconnected
+projects: a refreshed resume/CV and a contracting services website. The
+strategy leverages 27+ years of experience, FAANG credentials (Meta
+AR/VR, Netflix TVUI), and the rare combination of deep technical
+expertise with design/branding background.
 
 ### Key Strategic Decisions
 
-**Brand Positioning:** "Creative Solutions Architect" - Position at the intersection of design and engineering, emphasizing the ability to bridge both worlds. This differentiator is rare at the senior/principal level and should be the cornerstone of all materials.
+**Brand Positioning:** "Creative Solutions Architect" - Position at the
+intersection of design and engineering, emphasizing the ability to
+bridge both worlds. This differentiator is rare at the senior/principal
+level and should be the cornerstone of all materials.
 
-**Primary Domain:** Use **hamletink.com** as the primary contracting/consulting website. The name suggests creativity ("ink" evokes design, writing, signatures) while remaining professional. Use **hamletzone.com** for personal projects, experiments, or as a redirect.
+**Primary Domain:** Use **hamletink.com** as the primary
+contracting/consulting website. The name suggests creativity ("ink"
+evokes design, writing, signatures) while remaining professional. Use
+**hamletzone.com** for personal projects, experiments, or as a redirect.
 
-**Technology Approach:** Leverage existing expertise with modern tooling:
+**Technology Approach:** Leverage existing expertise with modern
+tooling:
 
 - Resume: Astro-based static site with automated PDF generation
 - Website: Astro or Next.js with content-focused architecture
 
-**Phased Implementation:** Resume first (immediate value), then website (builds on resume content and establishes consulting presence).
+**Phased Implementation:** Resume first (immediate value), then website
+(builds on resume content and establishes consulting presence).
 
 ### Recommended Approach Summary
 
@@ -41,15 +53,18 @@ This strategy guide outlines a comprehensive approach to modernizing Jerry Hamle
 **Week 1-2: Resume Modernization**
 
 - Audit current README.md resume content
-- Update experience section (current role still shows Facebook, should be Meta)
-- Update years of experience (currently says "20 years", should be "27+ years")
+- Update experience section (current role still shows Facebook, should
+  be Meta)
+- Update years of experience (currently says "20 years", should be "27+
+  years")
 - Add AI/ML integration focus to skills and narrative
 - Implement modern web-based resume with PDF export
 - Create ATS-optimized plain text version
 
 **Week 2-3: LinkedIn Optimization**
 
-- Implement recommendations from linkedin-profile-optimization.md research
+- Implement recommendations from linkedin-profile-optimization.md
+  research
 - Update headline to include AI/ML focus
 - Rewrite summary/about section
 - Reach 500+ connections
@@ -119,14 +134,16 @@ This strategy guide outlines a comprehensive approach to modernizing Jerry Hamle
 
 1. Update "20 years experience" to "27+ years experience"
 2. Change "Facebook" to "Meta" throughout
-3. Update current role description (Aug 2018 to Current is 7+ years - verify accuracy)
+3. Update current role description (Aug 2018 to Current is 7+ years -
+   verify accuracy)
 4. Add AI/ML and LLM integration to skills section
 5. Update tools list (add modern tools like Vite, remove dated ones)
 6. Add TypeScript prominently
 
 **Structural Improvements:**
 
-1. Create stronger opening hook - current summary is functional but not compelling
+1. Create stronger opening hook - current summary is functional but not
+   compelling
 2. Lead with impact metrics where possible
 3. Add scale indicators (team sizes, user counts, revenue impact)
 4. Ensure ATS compatibility while maintaining design appeal
@@ -209,9 +226,11 @@ curriculum-vitae/
 
 The contracting website (hamletink.com) serves three primary purposes:
 
-1. **Credibility Building:** Establish authority and trust before prospect contact
+1. **Credibility Building:** Establish authority and trust before
+   prospect contact
 2. **Lead Generation:** Convert visitors into consultation requests
-3. **Differentiation:** Showcase the unique design+engineering combination
+3. **Differentiation:** Showcase the unique design+engineering
+   combination
 
 ### Target Audiences
 
@@ -254,7 +273,8 @@ hamletink.com/
 
 ### Service Offerings Framework
 
-Based on experience and market positioning, consider these service categories:
+Based on experience and market positioning, consider these service
+categories:
 
 **1. Frontend Architecture Consulting**
 
@@ -386,7 +406,8 @@ Based on experience and market positioning, consider these service categories:
 
 ### Case Study Framework
 
-Develop 3-5 detailed case studies for the website. Each should follow this structure:
+Develop 3-5 detailed case studies for the website. Each should follow
+this structure:
 
 **1. Overview**
 
@@ -428,18 +449,22 @@ Develop 3-5 detailed case studies for the website. Each should follow this struc
 ### Suggested Case Studies to Develop
 
 1. **Meta AR/VR - Gaia Internal Tool**
+
    - Focus: Complex data visualization, leadership, scale
    - Angle: Building for data scientists, not consumers
 
 2. **Netflix TVUI - Search Experience**
+
    - Focus: Performance optimization, scale (30M+ users)
    - Angle: Functional reactive programming in practice
 
 3. **Netflix TVUI - Build Tools**
+
    - Focus: Developer experience, reducing build times to near-zero
    - Angle: 3+ years of evolution, meeting growing needs
 
 4. **Design + Engineering Integration** (Composite)
+
    - Focus: How design background informs engineering decisions
    - Angle: Unique differentiator showcase
 
@@ -459,7 +484,8 @@ Develop 3-5 detailed case studies for the website. Each should follow this struc
 **Process:**
 
 1. Identify 5-10 people to request testimonials from
-2. Provide specific prompts (e.g., "What was it like working with me on X?")
+2. Provide specific prompts (e.g., "What was it like working with me on
+   X?")
 3. Offer to draft for their approval if they're busy
 4. Get permission for website use
 5. Include name, title, company, and photo if possible
@@ -479,7 +505,8 @@ Develop 3-5 detailed case studies for the website. Each should follow this struc
 | Hosting        | Vercel                                   | Free, fast, GitHub integration           |
 | Domain         | Custom (via hamletzone.com or subdomain) | Professional appearance                  |
 
-**Alternative:** If preferring to showcase React expertise, Next.js with static export is also excellent.
+**Alternative:** If preferring to showcase React expertise, Next.js with
+static export is also excellent.
 
 ### Website Project Stack
 
@@ -580,16 +607,19 @@ Consider using a subdomain for the resume:
 ### Immediate Actions (This Week)
 
 1. **Audit Current Resume Content**
+
    - Review README.md for outdated information
    - List all items needing updates
    - Identify gaps vs. LinkedIn research recommendations
 
 2. **Register/Verify Domain Access**
+
    - Confirm control of hamletink.com
    - Set up DNS if needed
    - Verify hamletzone.com status
 
 3. **Initialize Project Repository**
+
    - Create new branch for resume modernization
    - Set up Astro project structure
    - Configure build pipeline
@@ -602,11 +632,13 @@ Consider using a subdomain for the resume:
 ### Week 2 Actions
 
 5. **Complete Resume Content Updates**
+
    - Rewrite summary with AI/ML focus
    - Update all experience sections
    - Add quantified achievements where possible
 
 6. **Implement Web Resume**
+
    - Build basic Astro site structure
    - Create responsive design
    - Implement PDF generation
@@ -619,11 +651,13 @@ Consider using a subdomain for the resume:
 ### Week 3-4 Actions
 
 8. **Complete LinkedIn Optimization**
+
    - Finish all updates per research document
    - Add/update skills
    - Request endorsements from connections
 
 9. **Begin Website Planning**
+
    - Finalize information architecture
    - Start drafting homepage copy
    - Outline first case study
@@ -637,8 +671,10 @@ Consider using a subdomain for the resume:
 
 Before proceeding further, decide:
 
-1. **Domain Strategy:** Redirect hamletzone.com to hamletink.com, or keep separate?
-2. **Technology Stack:** Astro (recommended) or Next.js for both projects?
+1. **Domain Strategy:** Redirect hamletzone.com to hamletink.com, or
+   keep separate?
+2. **Technology Stack:** Astro (recommended) or Next.js for both
+   projects?
 3. **Content Scope:** How many case studies for initial launch?
 4. **Timeline Priority:** Speed to market or comprehensiveness?
 
@@ -692,14 +728,18 @@ Before proceeding further, decide:
 
 ## Appendix B: Key Statistics
 
-- 89% of US creative directors prioritize candidates with an online portfolio
+- 89% of US creative directors prioritize candidates with an online
+  portfolio
 - 85% of tech recruiters value live demos in web developer portfolios
 - Interactive demos boost engagement by 55%
 - Portfolios with client testimonials convert 60% better
 - 80%+ of potential clients check consulting websites before engagement
-- 50% of American professionals believe personal brand matters more than resume in 2025
-- LinkedIn remains the top personal branding platform (64% of professionals)
+- 50% of American professionals believe personal brand matters more than
+  resume in 2025
+- LinkedIn remains the top personal branding platform (64% of
+  professionals)
 
 ---
 
-_Strategy guide prepared December 6, 2025. Review and update quarterly or as projects progress._
+_Strategy guide prepared December 6, 2025. Review and update quarterly
+or as projects progress._
