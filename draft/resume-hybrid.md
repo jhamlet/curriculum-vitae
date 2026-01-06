@@ -106,8 +106,9 @@ and team enablement. Strengthens teams — teaches while building.
 
 TVUI Discovery Experience
 
-- Streaming experience for **100M+ users** across **212 countries** on
-  TVs, consoles, and set-top boxes
+- Joined as founding engineer on 4-person team building Netflix's TV UI
+  platform; scaled to **40+ engineers** serving **100M+ users** across
+  **212 countries** on TVs, consoles, and set-top boxes
 - Took the initiative to craft the TVUI build system: **40 seconds to
   near-zero** rebuilds — saved millions in developer hours
 - Infrastructure maintained **3+ years** through exponential growth in
