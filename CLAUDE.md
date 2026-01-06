@@ -31,9 +31,17 @@ stages:
 See `docs/process/` for detailed guides:
 
 - `author-profile.md` - Context, objectives, audience, constraints
+- `author-profile-hamletink.md` - Contracting profile (extends base)
 - `resume-workflow.md` - End-to-end draft → pub pipeline
 - `persona-review-guide.md` - How to run persona reviews
 - `change-record-guide.md` - Creating and collapsing change records
+
+### Identity Model
+
+| Identity       | Email                | Use Case                          |
+| -------------- | -------------------- | --------------------------------- |
+| **Hamletzone** | jerry@hamletzone.com | Employment, LinkedIn, traditional |
+| **Hamletink**  | jerry@hamletink.com  | Contracting, fractional, advisory |
 
 ### Variant Model
 
