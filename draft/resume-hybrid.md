@@ -13,7 +13,7 @@ target:
     - ai-ml
     - productivity
   company_stage: Series A-B
-  role: Creative Solutions Engineer
+  role: Creative Principal Engineer
   engagement: contract-to-hire
 
 focus:
@@ -33,81 +33,63 @@ reviews:
     score: null
 ---
 
-# Jerry Hamlet
+# Jerry Hamlet _Creative Principal Engineer_
 
-## Creative Solutions Engineer
-
-[jerry@hamletzone.com](mailto:jerry@hamletzone.com) |
-[+1.510.432.4317](tel:+15104324317) |
-[LinkedIn](https://www.linkedin.com/in/jerryhamlet) |
-[GitHub](https://github.com/jhamlet)
-
----
+- [jerry@hamletzone.com](mailto:jerry@hamletzone.com)
+- [+1.510.432.4317](tel:+15104324317)
+- [LinkedIn](https://www.linkedin.com/in/jerryhamlet)
+- [GitHub](https://github.com/jhamlet)
 
 ## Summary
 
-Creative Solutions Engineer specializing in AI-augmented architecture
-and spec-driven development. 27+ years bridging design and engineering —
-now amplified by AI tooling that makes experience compound faster.
+I help teams ship faster, with higher quality, by combining deep
+experience with modern AI tooling — taking on complex, cross-cutting
+problems that don't fit neatly into one team's backlog.
 
-I take on complex, cross-cutting problems that don't fit neatly into one
-team's backlog. The elegance comes from pattern recognition across
-domains.
+A builder who ships at scale. An architect who thinks in systems —
+design formed the foundation, engineering built scale, principal work
+developed cross-boundary cohesion.
 
----
-
-## Recent Focus
-
-**2025-Present**: Deep dive into AI-augmented development. Developing
-spec-driven methodology: structured requirements that AI agents consume
-to generate predictable implementations. Independently discovered this
-approach before GitHub validated it with their Spec Kit release.
-
-**2023-2025**: Break after two decades of high-intensity work in Silicon
-Valley. Reset, recharge, rediscover what makes the work interesting.
-
-27 years of pattern recognition now amplified by AI tooling — the
-experience makes the AI more effective, not the other way around.
-
----
+Now, after a break to **rest, reset, and recharge** from two decades of
+high-intensity impact in Silicon Valley, and energized by AI-augmented
+development, I am ready to apply my knowledge, experience, and judgement
+to delivering impact at even greater scale.
 
 ## Core Capabilities
 
-**AI-Augmented Development** -- Orchestrating multi-agent workflows for
-complex tasks. Spec-driven development that turns requirements into
-working systems.
+**AI-Augmented Development** -- Deep architectural knowledge informs AI.
+Experienced judgment amplifies AI production. Spec-driven development
+turns requirements into working systems.
 
-**Systems Architecture** -- Understanding how parts connect, where
-bottlenecks hide, and what simplicity looks like on the other side of
-complexity.
+**Systems Thinking** -- Untangling complexity into simplicity. Finding
+elegant paths through complex problems. Understanding how parts connect
+and where bottlenecks hide.
 
-**Developer Experience** -- Building tools and processes that make teams
-more effective. Build systems, automation, productivity multipliers.
+**Developer Experience** -- Build systems, automation, productivity
+multipliers. Systems thinking at massive scale (Netflix global, Meta
+AR/VR).
 
-**Cross-Platform Solutions** -- Single architectures serving diverse
-environments: TVs, consoles, mobile, web, constrained devices.
-
----
+**Force Multiplication** -- Scope leverage, not just speed. Mentoring
+and team enablement. Strengthens teams — teaches while building.
 
 ## Experience
 
-### Principal UI Engineer | Meta | Aug 2018 - Mar 2022
+### Principal UI Engineer _Meta_ **Aug 2018 - Mar 2022**
 
 **Infra** (Jan 2021 - Mar 2022)
 
 - UI tooling serving engineers across Meta's infrastructure organization
-- Mentored engineers beginning their senior-level journeys
+- Mentored team of 6-7 engineers; 2+ advanced to senior roles
 
 **AR/VR Core Tech** (Aug 2018 - Dec 2020)
 
-- Internal platform serving **thousands of engineers** across Meta's
-  AR/VR division
+- AR/VR internal tools serving **thousands of scientists and engineers**
 - Cross-functional solution addressing **80% of varied user needs**
   across multiple teams
 - Complex data visualization using SVG and WebGL for data scientists and
   engineers
 
-### UI Architect | LogicHub | Aug 2017 - May 2018
+### UI Architect _LogicHub_ **Aug 2017 - May 2018**
 
 - Security automation platform using graph-based tools for expert
   workflow replication
@@ -115,25 +97,25 @@ environments: TVs, consoles, mobile, web, constrained devices.
 - Team mentorship in architecture, functional programming, and reactive
   extensions
 
-### Principal UI Engineer | Airtime Media | Aug 2016 - Jun 2017
+### Principal UI Engineer _Airtime Media_ **Aug 2016 - Jun 2017**
 
 - Social experience platform for web and desktop
 
-### Senior UI Engineer | Netflix | May 2010 - Feb 2016
+### Senior UI Engineer _Netflix_ **May 2010 - Feb 2016**
 
 TVUI Discovery Experience
 
 - Streaming experience for **100M+ users** across **212 countries** on
   TVs, consoles, and set-top boxes
-- Build system: developer rebuilds from **40 seconds to near-zero** --
-  saving millions in productivity
+- TVUI build system: **40 seconds to near-zero** rebuilds — saved
+  millions in developer hours
 - Infrastructure maintained **3+ years** through exponential growth in
   device coverage
-- Search architecture using functional reactive programming across **15+
-  languages**
+- Defacto Search UI using functional reactive programming and
+  GraphQL-like data structures across **15+ languages**
 - i18n standards enabling regional expansion without UI rework
 
-### Senior Web Developer | Yahoo | 2007 - 2009
+### Senior Web Developer _Yahoo_ **2007 - 2009**
 
 International Search
 
@@ -141,7 +123,7 @@ International Search
 - **10% bandwidth savings** through optimization strategies
 - Deployment automation eliminating configuration errors
 
-### Earlier Experience | 1997 - 2007
+## Earlier Experience **1997 - 2007**
 
 **BIG Design** (2004-2007): Design and development. **200% company
 growth**. SanDisk Sansa MP3 player line: **6 products**, **5 regions**,
@@ -152,8 +134,6 @@ search improvement**. **1000% e-commerce revenue increase**.
 
 **Freelance & Agency** (1997-2004): Web development, graphic design,
 Flash animation, print production.
-
----
 
 ## Expertise
 
@@ -169,8 +149,8 @@ Programming | Reactive Programming | TypeScript
 
 ### AI/ML Integration
 
-Multi-Agent Orchestration | Model Context Protocol (MCP) | Prompt
-Engineering | AI Workflow Design
+Multi-Agent Orchestration | Model Context Protocol (MCP) | Claude Code
+Extension Development | Agentic Workflow Patterns | Prompt Engineering
 
 ### Design Foundation
 
