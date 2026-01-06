@@ -2,29 +2,31 @@
 
 ## Context
 
-27+ years bridging design and engineering. Career arc: design foundation
-(1997-2007) to engineering mastery (2007-2018) to principal-level
-leadership (2018-2024) to AI-augmented evolution (2024-present).
+**Problem-solver behind Netflix's expansion to 212 countries.** An
+architect who thinks in systems — design formed the foundation,
+engineering built scale, principal work developed cross-boundary
+cohesion. Clarity is the guide to an elegant path through complexity.
 
-Key proof points at scale:
+**Builder who ships at scale:**
 
-- Netflix: Architect for global expansion (1 to 212 countries, 100M+
-  users)
-- Meta: AR/VR internal tools serving thousands of engineers
-- Developer experience focus throughout: build tools, automation, DX
+- Netflix: Defacto Search UI; TVUI build system saved millions in
+  developer hours
+- Meta: AR/VR internal tools serving thousands of scientists and
+  engineers
+- Developer experience throughout: build tools, automation, DX
   improvements
 
-Recent pivot to AI-augmented development (mid-November 2025).
-Independent discovery of spec-driven development methodology before
-GitHub open-sourced Spec Kit (September 2025). Early but ahead of curve
-on AI-native approaches.
+**Strategist and hands-on maker.** Builds things that work. Driven by
+elegant solutions — puzzles need solving. Strengthens teams — teaches
+while building.
 
-Design background is an operating system, not a credential. Pattern
-recognition across domains informs every architectural decision.
+**AI-augmented, iterative, spec-driven development drives orchestration
+and implementation.** AI amplifies the production of work guided by
+architectural knowledge and experienced judgement.
 
 ## Objective
 
-**Rate:** $175-200/hr minimum, with pathway to $250-350/hr for
+**Rate:** $150-200/hr minimum, with pathway to $200-300/hr for
 fractional leadership engagements.
 
 **Engagement type:** Long-term contracts (3-6 months) preferred.
@@ -46,10 +48,10 @@ Project-based with clear outcomes. Open to retainer/advisory.
 
 **Industries:**
 
-- Developer tools and DevOps
-- AI/ML tooling
+- UI development
 - Productivity and workflow software
-- Creative tools
+- AI/ML tooling
+- Developer and creative tools
 
 **Decision makers:** CTOs, VPs of Engineering, technical founders
 
@@ -71,29 +73,29 @@ Project-based with clear outcomes. Open to retainer/advisory.
 
 **Deal-breakers:**
 
-- Crypto/Web3, AdTech, defense/weapons
-- Maintenance work on legacy systems
 - Large team politics and consensus-building theater
 - Micromanagement
 - Slow bureaucracy that impedes progress
 - Uninspiring work that doesn't challenge
+- Crypto/Web3, AdTech, defense/weapons
+- Maintenance work on legacy systems
 
 **Will not accept:**
 
-- Rate below $175/hr
+- Rate below $150/hr
 - Roles requiring heavy on-camera performance
 
 ## Differentiators
 
 **Core:**
 
-- "I am the training data" - 27 years of experience is what makes AI
-  useful; AI amplifies judgment, does not replace it
-- Design as operating system - pattern recognition across domains, not
-  just visual skills
-- Spec-driven development - independent discovery of methodology GitHub
-  open-sourced in September 2025
-- Anti-performer positioning - "Building, not performing" attracts
+- Deep architectural knowledge informs AI — experienced judgment
+  amplifies AI production
+- Design formed the foundation — pattern recognition across domains,
+  layered systems thinking
+- Spec-driven development — iterative, detailed specs drive
+  orchestration and implementation
+- Anti-performer positioning — "Building, not performing" attracts
   substance-focused clients
 
 **Technical:**
@@ -116,17 +118,17 @@ Project-based with clear outcomes. Open to retainer/advisory.
 
 **The story arc:**
 
-Design Foundation (1997-2007): Pattern recognition, synthesis across
-domains, visual problem-solving.
+Design Foundation: Pattern recognition, synthesis across domains, visual
+problem-solving.
 
-Engineering Mastery (2007-2018): Systems thinking at scale, developer
-experience, cross-platform complexity.
+Engineering Mastery: Systems thinking at scale, developer experience,
+cross-platform complexity.
 
-Principal-Level Leadership (2018-2024): Architecture decisions, team
-enablement, complex systems integration.
+Principal-Level Leadership: Architecture decisions, team enablement,
+complex systems integration.
 
-AI-Augmented Evolution (2024-Present): Same deep expertise, now with AI
-amplification. "I am the training data."
+AI-Augmented Evolution: Same deep expertise, now with AI amplification.
+Experienced judgment directs what AI produces.
 
 **The key insight:**
 
@@ -153,7 +155,7 @@ filters:
 
 **Does it align with objectives?**
 
-- Does the feedback move toward $175-200/hr positioning?
+- Does the feedback move toward $150-200/hr positioning?
 - Does it strengthen appeal to Series A-B startups?
 - Does it support contract/project engagement model?
 
@@ -167,7 +169,7 @@ filters:
 **Is it actionable within constraints?**
 
 - Does the suggestion require heavy on-camera performance? (reject)
-- Does it conflict with "building, not performing" positioning? (reject)
+- Does it conflict with "building, not performing" positioning? (modify)
 - Does it lead with years in a way that risks ageism? (modify)
 - Does it diminish design as "background"? (modify)
 
