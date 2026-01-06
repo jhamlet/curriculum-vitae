@@ -38,6 +38,9 @@ See `docs/process/` for detailed guides:
 
 ### Identity Model
 
+Profiles use frontmatter inheritance per the content system pattern. See
+`~/Dropbox/vaults/life/content/CLAUDE.md` for inheritance rules.
+
 | Identity       | Email                | Use Case                          |
 | -------------- | -------------------- | --------------------------------- |
 | **Hamletzone** | jerry@hamletzone.com | Employment, LinkedIn, traditional |
