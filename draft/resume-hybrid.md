@@ -84,7 +84,7 @@ and team enablement. Strengthens teams — teaches while building.
 **AR/VR Core Tech (AI Data Systems)** (Aug 2018 - Dec 2020)
 
 - Designed and implemented web-based internal tools for AR/VR teams,
-  serving **thousands of scientists and engineers**
+  serving **hundreds of scientists and engineers**
 - Cross-functional solution addressing **80% of varied user needs**
   across multiple teams
 - Complex data visualization using SVG and WebGL for data scientists and

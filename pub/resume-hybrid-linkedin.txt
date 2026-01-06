@@ -31,7 +31,7 @@ I help teams ship faster, with higher quality, by combining deep experience with
 
 A builder who ships at scale. An architect who thinks in systems — design formed the foundation, engineering built scale, principal work developed cross-boundary cohesion.
 
-From scaling Netflix's TV interface as a founding engineer (4-person team → 40+ engineers, 100M+ users, 212 countries) to building internal tools for Meta's AR/VR teams, serving thousands of scientists and engineers, I've built systems that work at massive scale.
+From scaling Netflix's TV interface as a founding engineer (4-person team → 40+ engineers, 100M+ users, 212 countries) to building internal tools for Meta's AR/VR teams, serving hundreds of scientists and engineers, I've built systems that work at massive scale.
 
 Now, after a break to rest, reset, and recharge from two decades of high-intensity impact in Silicon Valley, and energized by AI-augmented development, I'm ready to apply my knowledge, experience, and judgment to delivering impact at even greater scale.
 
@@ -67,7 +67,7 @@ Infra Team (Jan 2021 - Mar 2022)
 • Mentored team of 6-7 engineers; 2+ advanced to senior roles
 
 AR/VR Core Tech - AI Data Systems (Aug 2018 - Dec 2020)
-• Designed and implemented web-based internal tools for AR/VR teams, serving thousands of scientists and engineers
+• Designed and implemented web-based internal tools for AR/VR teams, serving hundreds of scientists and engineers
 • Delivered cross-functional solution addressing 80% of varied user needs across multiple teams
 • Built complex data visualization using SVG and WebGL for data scientists and engineers
 
