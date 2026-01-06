@@ -2,7 +2,7 @@
 
 ## Fractional Tech Leadership | AI Integration & Product Velocity for Series A-B Startups
 
-- [jerry@hamletzone.com](mailto:jerry@hamletzone.com)
+- [jerry@hamletink.com](mailto:jerry@hamletink.com)
 - [LinkedIn](https://www.linkedin.com/in/jerryhamlet)
 - [GitHub](https://github.com/jhamlet)
 
