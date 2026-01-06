@@ -24,7 +24,7 @@ stages:
 - **Feedback:** `draft/resume-{variant}-feedback.md`
 - **Change Records:** `draft/changes/YYYY_MM_DDTHH_MM_SS-change.md`
 - **Patterns:** `patterns/` (reusable transformation patterns)
-- **Personas:** `prompts/personas/` (reviewer persona prompts)
+- **Personas:** `docs/personas/` (reviewer persona prompts)
 
 ### Process Documentation
 

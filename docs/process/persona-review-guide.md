@@ -15,11 +15,11 @@ priorities, time budgets, and evaluation criteria.
 
 ## Available Personas
 
-| Persona          | File                                   | Time Budget | Engagement Type  |
-| ---------------- | -------------------------------------- | ----------- | ---------------- |
-| Startup Founder  | `prompts/personas/startup-founder.md`  | 3-5 min     | Contract-to-hire |
-| Engineering HM   | `prompts/personas/engineering-hm.md`   | 2-4 min     | Full-time        |
-| Strategic Leader | `prompts/personas/strategic-leader.md` | 1-2 min     | Contract-to-hire |
+| Persona          | File                                | Time Budget | Engagement Type  |
+| ---------------- | ----------------------------------- | ----------- | ---------------- |
+| Startup Founder  | `docs/personas/startup-founder.md`  | 3-5 min     | Contract-to-hire |
+| Engineering HM   | `docs/personas/engineering-hm.md`   | 2-4 min     | Full-time        |
+| Strategic Leader | `docs/personas/strategic-leader.md` | 1-2 min     | Contract-to-hire |
 
 ### Persona Summaries
 
@@ -54,7 +54,7 @@ Load the persona prompt and resume for review:
 
 ```
 Files to include in context:
-- prompts/personas/{persona}.md
+- docs/personas/{persona}.md
 - draft/resume-{variant}.md
 - docs/process/author-profile.md (for feedback filtering)
 ```
@@ -339,4 +339,4 @@ When discarding feedback, note why in the aggregation:
 - [Change Record Guide](change-record-guide.md) - Tracking changes from
   feedback
 - [Author Profile](author-profile.md) - Filtering context
-- Persona definitions: `prompts/personas/`
+- Persona definitions: `docs/personas/`
