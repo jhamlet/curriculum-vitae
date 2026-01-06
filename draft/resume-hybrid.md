@@ -141,20 +141,39 @@ Flash animation, print production.
 
 ### Core
 
-AI-Augmented Development | Systems Architecture | Design Systems |
-Spec-Driven Development | Developer Experience
+- AI-Augmented Development
+- Systems Architecture
+- Design Systems
+- Spec-Driven Development
+- Developer Experience
 
 ### Technical
 
-JavaScript | React | GraphQL | Node.js | RxJs | Ramda | Functional
-Programming | Reactive Programming | TypeScript
+- JavaScript
+- React
+- GraphQL
+- Node.js
+- RxJs
+- Ramda
+- Functional
+- Programming
+- Reactive Programming
+- TypeScript
 
 ### AI/ML Integration
 
-Multi-Agent Orchestration | Model Context Protocol (MCP) | Claude Code
-Extension Development | Agentic Workflow Patterns | Prompt Engineering
+- Multi-Agent Orchestration
+- Model Context Protocol (MCP)
+- Claude Code
+- Extension Development
+- Agentic Workflow Patterns
+- Prompt Engineering
 
 ### Design Foundation
 
-UI/UX | Information Architecture | Visual Design | Branding | Marketing
-| Pattern Recognition
+- UI/UX
+- Information Architecture
+- Visual Design
+- Branding
+- Marketing
+- Pattern Recognition
