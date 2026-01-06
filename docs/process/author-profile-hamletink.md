@@ -1,43 +1,33 @@
+---
+type: author-profile
+extends: author-profile
+identity: hamletink
+email: jerry@hamletink.com
+use-cases:
+  - contracting
+  - fractional
+  - advisory
+  - consulting
+---
+
 # Author Profile: Jerry Hamlet (Hamletink)
 
-**Extends:** `author-profile.md`
-
-This profile is used for **contracting and fractional work**. It
-inherits all content from the base author profile with the following
-overrides.
-
----
+Extends `author-profile.md` for contracting and fractional work.
 
 ## Overrides
 
-### Contact
+| Property | Base (Hamletzone)    | This (Hamletink)    |
+| -------- | -------------------- | ------------------- |
+| email    | jerry@hamletzone.com | jerry@hamletink.com |
 
-| Field | Base (Hamletzone)    | Hamletink           |
-| ----- | -------------------- | ------------------- |
-| Email | jerry@hamletzone.com | jerry@hamletink.com |
+## Inheritance Rules
 
-### Use Cases
+Per the content system pattern:
 
-Use this profile for:
+1. **Scalars:** Child value replaces parent value
+2. **Arrays:** Child array replaces parent array (no merging)
+3. **Missing properties:** Inherited from parent
 
-- Fractional.io profile
-- Contracting proposals
-- Advisory/consulting engagements
-- Independent work positioning
-
-Use the base profile (hamletzone) for:
-
-- LinkedIn
-- Full-time employment applications
-- Traditional resume submissions
-
----
-
-## Rationale
-
-Separating contracting identity (Hamletink) from employment identity
-(Hamletzone) allows:
-
-- Clean separation of business inquiries
-- Different positioning for different audiences
-- Potential future business entity separation
+All other properties (Context, Objective, Audience, Constraints,
+Differentiators, Narrative, Feedback Filter) are inherited from the base
+profile.

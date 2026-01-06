@@ -1,3 +1,14 @@
+---
+type: author-profile
+name: Jerry Hamlet
+identity: hamletzone
+email: jerry@hamletzone.com
+use-cases:
+  - employment
+  - linkedin
+  - traditional-resume
+---
+
 # Author Profile: Jerry Hamlet
 
 ## Context
