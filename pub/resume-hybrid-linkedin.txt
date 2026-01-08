@@ -58,11 +58,11 @@ EXPERIENCE
 ================================================================================
 
 --------------------------------------------------------------------------------
-PRINCIPAL UI ENGINEER | Meta
+SENIOR UI ENGINEER | Meta
 Aug 2018 - Mar 2022
 --------------------------------------------------------------------------------
 
-Infra Team (Jan 2021 - Mar 2022)
+Core Infra Team (Jan 2021 - Mar 2022)
 • Built UI tooling serving engineers across Meta's infrastructure organization
 • Mentored team of 6-7 engineers; 2+ advanced to senior roles
 
